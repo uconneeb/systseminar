@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-## Welcome to Systematics Seminar
-
-This is the home page of the UConn EEB department's Systematics Seminar (EEB 6486). This is a graduate seminar devoted to issues of interest to graduate students and faculty who make up the systematics program at the University of Connecticut.
+This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Systematics Seminar (EEB 6486). This is a graduate seminar devoted to issues of interest to graduate students and faculty who make up the systematics program at the University of Connecticut.
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 

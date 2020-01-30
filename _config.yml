@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: Systematis Seminar
+description: Home page of Systematics Seminar (EEB 6486, UConn EEB)
+
+theme: minima
+
+header_pages:
+ - schedule.md
+ - listserv.md
+ - contact.md
+

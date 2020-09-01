@@ -3,25 +3,45 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-### Jan. 30
+We meet Thursdays 2:30 - 3:30. Connection info TBA soon.
 
-Organizational meeting
+### Sep. 3, 2020
 
-### Feb. 6
+We will discuss the commentary by Mark Pagel on the recent Nature paper by Louca and Pennell about how much information exists about speciation and extinction rates in extant time trees.
 
-Katie Taylor will lead the discussion of [Estimating Correlated Rates of Trait Evolution with Uncertainty](https://academic.oup.com/sysbio/article/68/3/412/5133548).
+[Pagel commentary](https://www.nature.com/articles/d41586-020-01021-4)
+[Louca & Pennell](https://www.nature.com/articles/s41586-020-2176-1)
 
-### Feb. 13
+### Sep. 10, 2020
 
-J Zhang, Q Cong, J Shen PA Opler, and NV Grishin. Genomics of a complete butterfly continent. bioRxiv doi: http://dx.doi.org/10.1101/829887.
+### Sep. 17, 2020
 
-### Feb. 20
+### Sep. 24, 2020
 
-### Feb. 27
+### Oct. 1, 2020
 
-DS Caetano and JM Beaulieu. 2020. Comparative Analyses of Phenotypic Sequences Using Phylogenetic Trees 195(2):E38-E50.
-[doi:10.1086/706912](https://doi.org/10.1086/706912)
+### Oct. 8, 2020
 
-### Mar. 5
+### Oct. 15, 2020
 
-Zhang et al. 2019. “Ghost Introgression” As a Cause of Deep Mitochondrial Divergence in a Bird Species Complex. Molecular Biology and Evolution 36(11):2375–2386. [doi:10.1093/molbev/msz170](https://doi.org/10.1093/molbev/msz170)
+### Oct. 22, 2020
+
+### Oct. 29, 2020
+
+### Nov. 5, 2020
+
+### Nov. 12, 2020
+
+### Nov. 19, 2020
+
+### Nov. 26, 2020 
+
+No meeting (Thanksgiving)
+
+### Dec. 3, 2020
+
+
+
+
+
+

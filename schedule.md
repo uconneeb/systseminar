@@ -7,10 +7,7 @@ We meet Thursdays 2:30 - 3:30. Connection info TBA soon.
 
 ### Sep. 3, 2020
 
-We will discuss the commentary by Mark Pagel on the recent Nature paper by Louca and Pennell about how much information exists about speciation and extinction rates in extant time trees.
-
-[Pagel commentary](https://www.nature.com/articles/d41586-020-01021-4)
-[Louca & Pennell](https://www.nature.com/articles/s41586-020-2176-1)
+We will discuss the [commentary by Mark Pagel](https://www.nature.com/articles/d41586-020-01021-4) on the recent [Nature paper by Louca and Pennell](https://www.nature.com/articles/s41586-020-2176-1) about how much information exists about speciation and extinction rates in extant time trees.
 
 ### Sep. 10, 2020
 

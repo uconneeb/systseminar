@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [systematics listserv](/listserv/).
+We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [systematics listserv](/systseminar/listserv/).
 
 ### Sep. 3, 2020
 

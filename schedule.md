@@ -11,6 +11,8 @@ We will discuss the [commentary by Mark Pagel](https://www.nature.com/articles/d
 
 ### Sep. 10, 2020
 
+Today we will discuss this response to Louca and Pennell by Morlon, Hartig, and Robin: [Prior hypotheses or regularization allow inference of diversification histories from extant timetrees](https://doi.org/10.1101/2020.07.03.185074).
+
 ### Sep. 17, 2020
 
 ### Sep. 24, 2020

@@ -15,6 +15,8 @@ Today we will discuss this response to Louca and Pennell by Morlon, Hartig, and 
 
 ### Sep. 17, 2020
 
+Diego S Porto, Eduardo A B Almeida, and Matthew W Pennell. 2020. [Investigating Morphological Complexes Using Informational Dissonance and Bayes Factors: A Case Study in Corbiculate Bees.](https://doi.org/10.1093/sysbio/syaa059) Systematic Biology (accepted manuscript). 
+
 ### Sep. 24, 2020
 
 ### Oct. 1, 2020

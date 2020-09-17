@@ -19,7 +19,7 @@ Diego S Porto, Eduardo AB Almeida, and MW Pennell. 2020. [Investigating Morpholo
 
 ### Sep. 24, 2020
 
-M. Vidal-García, JC O'Hanlon, GJ Svenson and KDL Umbers. 2020. [The evolution of startle displays: a case study in praying mantises .](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1016 ) Proceedings of the Royal Society B 287:20201016.
+M. Vidal-García, JC O'Hanlon, GJ Svenson and KDL Umbers. 2020. [The evolution of startle displays: a case study in praying mantises .](https://doi.org/10.1098/rspb.2020.1016 ) Proceedings of the Royal Society B 287:20201016.
 
 ### Oct. 1, 2020
 

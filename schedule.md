@@ -15,9 +15,11 @@ Today we will discuss this response to Louca and Pennell by Morlon, Hartig, and 
 
 ### Sep. 17, 2020
 
-Diego S Porto, Eduardo A B Almeida, and Matthew W Pennell. 2020. [Investigating Morphological Complexes Using Informational Dissonance and Bayes Factors: A Case Study in Corbiculate Bees.](https://doi.org/10.1093/sysbio/syaa059) Systematic Biology (accepted manuscript). 
+Diego S Porto, Eduardo AB Almeida, and MW Pennell. 2020. [Investigating Morphological Complexes Using Informational Dissonance and Bayes Factors: A Case Study in Corbiculate Bees.](https://doi.org/10.1093/sysbio/syaa059) Systematic Biology (accepted manuscript). 
 
 ### Sep. 24, 2020
+
+M. Vidal-García, JC O'Hanlon, GJ Svenson and KDL Umbers. 2020. [The evolution of startle displays: a case study in praying mantises .](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1016 ) Proceedings of the Royal Society B 287:20201016.
 
 ### Oct. 1, 2020
 

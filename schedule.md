@@ -5,6 +5,14 @@ permalink: /schedule/
 ---
 We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [systematics listserv](/systseminar/listserv/).
 
+## Next up...
+
+Andy Bush will join us to discuss his recent Science paper:
+
+ML Knope, AM Bush, LO Frishkoff, NA Heim, and JL Payne. 2020. [Ecologically diverse clades dominate the oceans via extinction resistance.](http://doi.org/10.1126/science.aax6398) Science 267: 1035-1038.
+
+## Water under the bridge...
+
 ### Sep. 3, 2020
 
 We will discuss the [commentary by Mark Pagel](https://www.nature.com/articles/d41586-020-01021-4) on the recent [Nature paper by Louca and Pennell](https://www.nature.com/articles/s41586-020-2176-1) about how much information exists about speciation and extinction rates in extant time trees.
@@ -22,6 +30,10 @@ Diego S Porto, Eduardo AB Almeida, and MW Pennell. 2020. [Investigating Morpholo
 M. Vidal-García, JC O'Hanlon, GJ Svenson and KDL Umbers. 2020. [The evolution of startle displays: a case study in praying mantises .](https://doi.org/10.1098/rspb.2020.1016 ) Proceedings of the Royal Society B 287:20201016.
 
 ### Oct. 1, 2020
+
+Andy Bush will join us to discuss his recent Science paper:
+
+ML Knope, AM Bush, LO Frishkoff, NA Heim, and JL Payne. 2020. [Ecologically diverse clades dominate the oceans via extinction resistance.](http://doi.org/10.1126/science.aax6398) Science 267: 1035-1038.
 
 ### Oct. 8, 2020
 

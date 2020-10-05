@@ -7,9 +7,9 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Andy Bush will join us to discuss his recent Science paper:
+Mark Stukel will give a short presentation on his investigations into the effect of GC content in phylogenomic analyses. As background, Mark suggested we look at the GC content portions of the following paper:
 
-ML Knope, AM Bush, LO Frishkoff, NA Heim, and JL Payne. 2020. [Ecologically diverse clades dominate the oceans via extinction resistance.](http://doi.org/10.1126/science.aax6398) Science 267: 1035-1038.
+Skinner et al. 2019. [Phylogenomics of Auchenorrhyncha (Insecta: Hemiptera) using transcriptomes: examining controversial relationships via degeneracy coding and interrogation of gene conflict.](https://doi.org/10.1111/syen.12381) Systematic Entomology 45(1):85-113.
 
 ## Water under the bridge...
 
@@ -36,6 +36,10 @@ Andy Bush will join us to discuss his recent Science paper:
 ML Knope, AM Bush, LO Frishkoff, NA Heim, and JL Payne. 2020. [Ecologically diverse clades dominate the oceans via extinction resistance.](http://doi.org/10.1126/science.aax6398) Science 267: 1035-1038.
 
 ### Oct. 8, 2020
+
+Mark Stukel will give a short presentation on his investigations into the effect of GC content in phylogenomic analyses. As background, Mark suggested we look at the GC content portions of the following paper:
+
+Skinner et al. 2019. [Phylogenomics of Auchenorrhyncha (Insecta: Hemiptera) using transcriptomes: examining controversial relationships via degeneracy coding and interrogation of gene conflict.](https://doi.org/10.1111/syen.12381) Systematic Entomology 45(1):85-113.
 
 ### Oct. 15, 2020
 

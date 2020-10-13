@@ -7,9 +7,7 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Mark Stukel will give a short presentation on his investigations into the effect of GC content in phylogenomic analyses. As background, Mark suggested we look at the GC content portions of the following paper:
-
-Skinner et al. 2019. [Phylogenomics of Auchenorrhyncha (Insecta: Hemiptera) using transcriptomes: examining controversial relationships via degeneracy coding and interrogation of gene conflict.](https://doi.org/10.1111/syen.12381) Systematic Entomology 45(1):85-113.
+There is no meeting this week (Oct. 25), but Zach Muscavitch will lead the discussion on Oct. 22.
 
 ## Water under the bridge...
 
@@ -43,9 +41,17 @@ Skinner et al. 2019. [Phylogenomics of Auchenorrhyncha (Insecta: Hemiptera) usin
 
 ### Oct. 15, 2020
 
+No meeting this week.
+
 ### Oct. 22, 2020
 
+Zack Muscavitch will lead, topic TBA.
+
 ### Oct. 29, 2020
+
+Kristin Anderson will lead the discussion on the following paper:
+
+T-S Han, Q-J Zheng, RE Onstein, BM Rojas-Andrés, F Hauenschild, AN Muellner-Riehl, and Y-W Xing. 2020. [Polyploidy promotes species diversification of _Allium_ through ecological shifts.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16098) New Phytologist 225(1): 571-583. DOI:10.1111/nph.16098
 
 ### Nov. 5, 2020
 

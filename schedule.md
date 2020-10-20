@@ -7,7 +7,9 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-There is no meeting this week (Oct. 25), but Zach Muscavitch will lead the discussion on Oct. 22.
+Zack Muscavitch will lead discussion on the following paper:
+
+RP Shefferson, W Bunch, CC Crowder, Y-I Lee, TR Kartzinel, T Yukawa, J Downing, and H Jiang. 2019. [Does evolutionary history determine specificity in broad ecological interactions.]( https://doi.org/10.1111/1365-2745.13170) Journal of Ecology 107(4):1582-1593. DOI:10.1111/1365-2745.13170
 
 ## Water under the bridge...
 
@@ -45,7 +47,9 @@ No meeting this week.
 
 ### Oct. 22, 2020
 
-Zack Muscavitch will lead, topic TBA.
+Zack Muscavitch will lead discussion on the following paper:
+
+RP Shefferson, W Bunch, CC Crowder, Y-I Lee, TR Kartzinel, T Yukawa, J Downing, and H Jiang. 2019. [Does evolutionary history determine specificity in broad ecological interactions.]( https://doi.org/10.1111/1365-2745.13170) Journal of Ecology 107(4):1582-1593. DOI:10.1111/1365-2745.13170
 
 ### Oct. 29, 2020
 

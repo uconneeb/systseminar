@@ -7,9 +7,9 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Zack Muscavitch will lead discussion on the following paper:
+Kristin Anderson will lead the discussion on the following paper:
 
-RP Shefferson, W Bunch, CC Crowder, Y-I Lee, TR Kartzinel, T Yukawa, J Downing, and H Jiang. 2019. [Does evolutionary history determine specificity in broad ecological interactions.]( https://doi.org/10.1111/1365-2745.13170) Journal of Ecology 107(4):1582-1593. DOI:10.1111/1365-2745.13170
+T-S Han, Q-J Zheng, RE Onstein, BM Rojas-Andrés, F Hauenschild, AN Muellner-Riehl, and Y-W Xing. 2020. [Polyploidy promotes species diversification of _Allium_ through ecological shifts.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16098) New Phytologist 225(1): 571-583. DOI:10.1111/nph.16098
 
 ## Water under the bridge...
 

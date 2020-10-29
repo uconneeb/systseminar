@@ -7,9 +7,9 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Kristin Anderson will lead the discussion on the following paper:
+Paul will lead discussion on this paper recently uploaded to bioRxiv:
 
-T-S Han, Q-J Zheng, RE Onstein, BM Rojas-Andrés, F Hauenschild, AN Muellner-Riehl, and Y-W Xing. 2020. [Polyploidy promotes species diversification of _Allium_ through ecological shifts.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16098) New Phytologist 225(1): 571-583. DOI:10.1111/nph.16098
+Y Li, X-X Shen, B Evans, CW Dunn, and A Rokas. 2020. [Rooting the animal tree of life.](https://www.biorxiv.org/content/10.1101/2020.10.27.357798v1) bioRxiv 28-Oct-2020. DOI:10.1101/2020.10.27.357798v1.
 
 ## Water under the bridge...
 
@@ -58,6 +58,10 @@ Kristin Anderson will lead the discussion on the following paper:
 T-S Han, Q-J Zheng, RE Onstein, BM Rojas-Andrés, F Hauenschild, AN Muellner-Riehl, and Y-W Xing. 2020. [Polyploidy promotes species diversification of _Allium_ through ecological shifts.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16098) New Phytologist 225(1): 571-583. DOI:10.1111/nph.16098
 
 ### Nov. 5, 2020
+
+Paul will lead discussion on this paper recently uploaded to bioRxiv:
+
+Y Li, X-X Shen, B Evans, CW Dunn, and A Rokas. 2020. [Rooting the animal tree of life.](https://www.biorxiv.org/content/10.1101/2020.10.27.357798v1) bioRxiv 28-Oct-2020. DOI:10.1101/2020.10.27.357798v1.
 
 ### Nov. 12, 2020
 

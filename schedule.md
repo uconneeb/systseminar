@@ -7,9 +7,9 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Paul will lead discussion on this paper recently uploaded to bioRxiv:
+Chris Simon and Mark Stukel will discuss this paper:
 
-Y Li, X-X Shen, B Evans, CW Dunn, and A Rokas. 2020. [Rooting the animal tree of life.](https://www.biorxiv.org/content/10.1101/2020.10.27.357798v1) bioRxiv 28-Oct-2020. DOI:10.1101/2020.10.27.357798v1.
+Dominic A. Evangelista, Sabrina Simon, Megan M. Wilson, Akito Y. Kawahara, Manpreet K. Kohli, Jessica L. Ware, Benjamin Wipfler, Olivier Béthoux, Philippe Grandcolas, Frédéric Legendre. (2020). Assessing support for Blaberoidea phylogeny suggests optimal locus quality. Systematic Entomology. In press.
 
 ## Water under the bridge...
 
@@ -64,6 +64,12 @@ Paul will lead discussion on this paper recently uploaded to bioRxiv:
 Y Li, X-X Shen, B Evans, CW Dunn, and A Rokas. 2020. [Rooting the animal tree of life.](https://www.biorxiv.org/content/10.1101/2020.10.27.357798v1) bioRxiv 28-Oct-2020. DOI:10.1101/2020.10.27.357798v1.
 
 ### Nov. 12, 2020
+
+Chris Simon and Mark Stukel will discuss this paper:
+
+Dominic A. Evangelista, Sabrina Simon, Megan M. Wilson, Akito Y. Kawahara, Manpreet K. Kohli, Jessica L. Ware, Benjamin Wipfler, Olivier Béthoux, Philippe Grandcolas, Frédéric Legendre. (2020). Assessing support for Blaberoidea phylogeny suggests optimal locus quality. Systematic Entomology. In press.
+
+The paper was sent as an email attachment to the systematics listserv.
 
 ### Nov. 19, 2020
 

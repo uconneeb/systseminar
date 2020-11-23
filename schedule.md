@@ -7,9 +7,7 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Lisa Terlova will lead discussion on the paper below in this week's Systematics Seminar:
-
-MP Braga, MJ Landis, S Nylin, N Janz, and F. Ronquist. 2020. [Bayesian inference of ancestral host-parasite interactions under a phylogenetic model of host repertoire evolution.](https://doi.org/10.1093/sysbio/syaa019) Syst. Biol. 69(6):1149-1162. [DOI:10.1093/sysbio/syaa019](https://doi.org/10.1093/sysbio/syaa019)
+Still looking for a paper for our last meeting on Dec. 3...
 
 ## Water under the bridge...
 

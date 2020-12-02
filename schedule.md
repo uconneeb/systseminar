@@ -7,7 +7,7 @@ We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [sys
 
 ## Next up...
 
-Still looking for a paper for our last meeting on Dec. 3...
+JP Rose, CAP Toledo, EM Lemmon, AR Lemmon, and KJ Sytsma. 2020. [Out of sight, out of mind: widespread nuclear and plastid-nuclear discordance in the flowering plant genus _Polemonium_ (Polemoniaceae) suggests widespread historical gene flow despite limited nuclear signal.](https:/doi.org/10.1093/sysbio/syaa049) Systematic Biology (advance access) DOI:10.1093/sysbio/syaa049
 
 ## Water under the bridge...
 
@@ -81,6 +81,7 @@ No meeting (Thanksgiving)
 
 ### Dec. 3, 2020
 
+JP Rose, CAP Toledo, EM Lemmon, AR Lemmon, and KJ Sytsma. 2020. [Out of sight, out of mind: widespread nuclear and plastid-nuclear discordance in the flowering plant genus _Polemonium_ (Polemoniaceae) suggests widespread historical gene flow despite limited nuclear signal.](https:/doi.org/10.1093/sysbio/syaa049) Systematic Biology (advance access) DOI:10.1093/sysbio/syaa049
 
 
 

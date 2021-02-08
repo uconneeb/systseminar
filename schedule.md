@@ -11,7 +11,7 @@ Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails co
 
 Zach Muscavitch will lead the discussion on the following paper:
 
-Varga et al. 2019. [Megaphylogeny resolves global patterns of mushroom evolution.](https://doi.org/10.1038/s41559-019-0834-1) Nayure Ecology and Evolution 3:668-678.
+Varga et al. 2019. [Megaphylogeny resolves global patterns of mushroom evolution.](https://doi.org/10.1038/s41559-019-0834-1) Nature Ecology and Evolution 3:668-678.
 
 Ch. 11, pp. 371-381 in Baum and Smith, gives a good overview of several of the methods, so bring questions about that as well.
 

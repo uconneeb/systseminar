@@ -7,6 +7,15 @@ permalink: /schedule/
 We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning to work through selected chapters of the book "Tree thinking: an introduction to phylogenetic biology" (D. A. Baum and S. D. Smith. 2013. Roberts and Company, Publishers, Greenwood Village, Colorado), supplemented by additional papers on specific topics.
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
+
+### Feb. 17, 2021
+
+Elizabeth Jockusch will lead the discussion on the following paper:
+
+Patton et al. 2020. [Hybridizing salamanders experience accelerated diversification](https://doi.org/10.1038/s41598-020-63378-w) Scientific Reports 10:6566.
+
+Recommended background reading: Baum and Smith Ch. 10 pp. 316-322 with view to the question of what it means to apply this model of character evolution to hybridization as a trait and also Ch. 11, pp. 378-381 for a basic model of trait-associated diversification.
+
 ### Feb. 10, 2021
 
 Zach Muscavitch will lead the discussion on the following paper:

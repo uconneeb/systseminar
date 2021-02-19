@@ -8,6 +8,12 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Feb. 24, 2021
+
+Mark Stukel will lead discussion on this paper, which reviews approaches to detecting and characterizing introgression using phylogenomic data:
+
+MS Hibbins and MW Hahn. 2021. [Phylogenomic approaches to detecting and characterizing introgression](https://doi.org/10.32942/osf.io/uahd8) EcoEvoRxiv 8 Feb 2021.
+
 ### Feb. 17, 2021
 
 Elizabeth Jockusch will lead the discussion on the following paper:

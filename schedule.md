@@ -10,9 +10,7 @@ Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails co
 
 ### Mar. 3, 2021
 
-We will continue discussion on the paper from last week, which reviews approaches to detecting and characterizing introgression using phylogenomic data:
-
-MS Hibbins and MW Hahn. 2021. [Phylogenomic approaches to detecting and characterizing introgression](https://doi.org/10.32942/osf.io/uahd8) EcoEvoRxiv 8 Feb 2021.
+We will continue discussion on the Hibbins and Hahn paper paper from last week, but in addition please read Chapter 6 of the Baum and Smith book. Come with questions and thoughts about how introgression may impact whatever phenomena you are most interested in.
 
 ### Feb. 24, 2021
 

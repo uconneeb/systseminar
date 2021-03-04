@@ -8,6 +8,10 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Mar. 10, 2021
+
+Following up on our discussion of methods for detecting introgression, Kristin will lead next week’s meeting on the role of introgression in the evolution of odonates (damselflies and dragonflies). Suvorov _et al_. 2021. [Deep ancestral introgression shapes evolutionary history of dragonflies and damselflies](https://doi.org/10.1101/2020.06.25.172619) BioRxiv 20 Feb, 2021.
+
 ### Mar. 3, 2021
 
 We will continue discussion on the Hibbins and Hahn paper paper from last week, but in addition please read Chapter 6 of the Baum and Smith book. Come with questions and thoughts about how introgression may impact whatever phenomena you are most interested in.

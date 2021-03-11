@@ -8,6 +8,13 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Mar. 17, 2021
+
+(From Elizabeth's email message...) Bernard will bring a bryophyte’s-eye view to our discussion about introgression, incomplete lineage sorting, and gene tree-species tree discordance, based on this recent paper:
+
+Meleshko et al. 2021. [Extensive genome-wide phylogenetic discordance is due to incomplete lineage sorting and not ongoing introgression in a rapidly radiated bryophyte genus.](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab063/6157842) Molecular Biology and Evolution (early access published 03 March 2021)
+
+As you will see, this turns out to be rather different than the bird’s-eye view.
 ### Mar. 10, 2021
 
 Following up on our discussion of methods for detecting introgression, Kristin will lead next week’s meeting on the role of introgression in the evolution of odonates (damselflies and dragonflies). Suvorov _et al_. 2021. [Deep ancestral introgression shapes evolutionary history of dragonflies and damselflies](https://doi.org/10.1101/2020.06.25.172619) BioRxiv 20 Feb, 2021.

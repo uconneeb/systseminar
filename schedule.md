@@ -8,6 +8,11 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Mar. 24, 2021
+
+Zach recommended this [book chapter](https://www.researchgate.net/publication/343920814_Species_delimitation) as a good starting point for our discussion of species delimitation.
+Also fodder for discussion: think about the ways in which you use species in your work  (and thus ways in which it matters where/how a lineage gets subdivided into recognized species)—(why) does it matter where one draws the line saying that speciation has happened?
+
 ### Mar. 17, 2021
 
 (From Elizabeth's email message...) Bernard will bring a bryophyte’s-eye view to our discussion about introgression, incomplete lineage sorting, and gene tree-species tree discordance, based on this recent paper:

@@ -10,7 +10,10 @@ Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails co
 
 ### Mar. 24, 2021
 
-Zach recommended this [book chapter](https://www.researchgate.net/publication/343920814_Species_delimitation) as a good starting point for our discussion of species delimitation.
+Zach recommended this [book chapter](https://www.researchgate.net/publication/343920814_Species_delimitation) as a good starting point for our discussion of species delimitation:
+
+B Rannala and Z Yang. 2020. Species delimitation. pp.5.5:1–5.5:18 in: Phylogenetics in the genomic era. C Scornavacca, F Delsuc, N Galtier (eds.). No commercial publisher: open access book. [hal-02536468](https://hal.archives-ouvertes.fr/hal-02536468)
+
 Also fodder for discussion: think about the ways in which you use species in your work  (and thus ways in which it matters where/how a lineage gets subdivided into recognized species)—(why) does it matter where one draws the line saying that speciation has happened?
 
 ### Mar. 17, 2021

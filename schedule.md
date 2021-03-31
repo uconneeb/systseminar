@@ -8,6 +8,19 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Mar. 31, 2021
+
+(From Elizabeth's email message...) See below from Tanner for recommended reading for this week’s systematics discussion.  The one to read in full (Zamani et al.) is only 4 pages long.
+
+The Intros of Meierotto et al 2019 and Sharkey et al 2021, and all of Zamani et al 2021 should suffice to provide the necessary background for this discussion....this is a topic that I hope will ruffle feathers and generate a lively discussion in class.
+
+Zamani et al. 2021. [The omission of critical data in the pursuit of ‘revolutionary’ methods to accelerate the description of species.](https://doi.org/10.1111/syen.12444) Systematic Entomology 46:1-4.
+
+Sharkey et al. 2021. [Minimalist revision and description of 403 new species in 11 subfamilies of Costa Rican braconid parasitoid wasps, including host records for 219 species](https://10.3897/zookeys.1013.55600) ZooKeys 1013:1-665. (Note: 236.3 MB, 665 pages)
+
+Meierotto et al. 2019. [A revolutionary protocol to describe understudied hyperdiverse taxa and overcome the taxonomic impediment](https://doi.org/10.3897/dez.66.34683) Deutsche Entomologische Zeitschrift 66:119–145.
+
+
 ### Mar. 24, 2021
 
 Zach recommended this [book chapter](https://www.researchgate.net/publication/343920814_Species_delimitation) as a good starting point for our discussion of species delimitation:

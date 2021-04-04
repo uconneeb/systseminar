@@ -10,7 +10,9 @@ Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails co
 
 ### Apr. 7, 2021
 
-Nick has  settled on Newton et al. 2020 [Integrative species delimitation reveals cryptic diversity in the southern Appalachian Antrodiaetus unicolor (Araneae: Antrodiaetidae) species complex.](https://doi.org/10.1111/mec.15483)  Molecular Ecology 29(12):2269-2287. to read this week - where we'll see a much different approach to delimiting species of invertebrates
+Nick has  settled on Newton et al. 2020 to read this week - where we'll see a much different approach to delimiting species of invertebrates.
+
+Newton et al. 2020 [Integrative species delimitation reveals cryptic diversity in the southern Appalachian Antrodiaetus unicolor (Araneae: Antrodiaetidae) species complex.](https://doi.org/10.1111/mec.15483) Molecular Ecology 29(12):2269-2287. 
 
 ### Mar. 31, 2021
 

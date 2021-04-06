@@ -8,6 +8,12 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Apr. 7, 2021
+
+Nick Van Gilder will lead discussion on this paper about species delimitation in invertebrates:
+
+Newton et al. 2020. [Integrative species delimitation reveals cryptic diversity in the southern Appalachian Antrodiaetus unicolor (Araneae: Antrodiaetidae) species complex.](https://doi.org/10.1111/mec.15483) Molecular Ecology 29:2269–2287.
+
 ### Mar. 31, 2021
 
 (From Elizabeth's email message...) See below from Tanner for recommended reading for this week’s systematics discussion.  The one to read in full (Zamani et al.) is only 4 pages long.

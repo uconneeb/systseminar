@@ -8,6 +8,16 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Apr. 21, 2021
+
+Vidya and Frank will be leading the discussion on this paper exploring cryptic speciation and gene flow in red-eyed vireos:
+
+Battey and Klicka. 2017. [Cryptic speciation and gene flow in a migratory songbird species complex: insights from the Red-Eyed Vireo (_Vireo olivaceus_).](http://dx.doi.org/10.1016/j.ympev.2017.05.006) Molecular Phylogenetics and Evolution 113:67-75.
+
+### Apr. 14, 2021
+
+Spring Break.
+
 ### Apr. 7, 2021
 
 Nick has  settled on Newton et al. 2020 to read this week - where we'll see a much different approach to delimiting species of invertebrates.

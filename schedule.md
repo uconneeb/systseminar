@@ -8,6 +8,14 @@ We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning t
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### Apr. 28, 2021
+
+Paul suggests we finish off the semester by looking at this review of adaptive introgression in humans:
+
+Racimo et al. 2015. [Evidence for archaic adaptive introgression in humans.](https://doi.org/10.1038/nrg3936) Nature Reviews Genetics 16:359-371.
+
+It is not too long and revisits some of the methods we've already discussed this semester, so I think it will be a nice paper with which to end our exploration of introgression.
+
 ### Apr. 21, 2021
 
 Vidya and Frank will be leading the discussion on this paper exploring cryptic speciation and gene flow in red-eyed vireos:

@@ -13,4 +13,5 @@ If you need a permission number for this course, see the [Contact](contact-info)
 
 ## Past semesters ##
 [Schedule Spring 2021](/schedule-spring-2021/)
+
 [Schedule Fall 2020](/schedule-fall-2020/)

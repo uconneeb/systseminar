@@ -12,5 +12,6 @@ Please choose [Schedule](schedule) from the main menu to see what we're discussi
 If you need a permission number for this course, see the [Contact](contact-info) page.
 
 ## Past semesters ##
+[Schedule Spring 2021](schedule-spring-2021.md)
 
-[Schedule Fall 2020](/schedule-fall-2020/)
+[Schedule Fall 2020](schedule-fall-2020.md)

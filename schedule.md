@@ -4,9 +4,9 @@ title: Schedule (Fall 2021)
 permalink: /schedule/
 ---
 
-We are meeting this semester on Mondays at 8:00-9:00am online. We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
+We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
-Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
+We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
 ### Sep. 13, 2021
 

@@ -24,4 +24,7 @@ GP Tiley, JW Poelstra, M dos Reis, Z Yang, and A Yoder. 2020. Molecular clocks w
 
 ### Sep. 27, 2021
 
-Any volunteers?
+From Mark Stukel: For Monday's reading/viewing, I have chosen a talk about using the Fossilized Birth-Death process to improve uncertainty in fossil ages. It nicely follows up on our discussion last time about uncertainty in fossil ages as well as fossil placement. Here is the talk: 
+[https://evolution.econference.io/public/fN8kqCq/main/sessions/18480/98885](https://evolution.econference.io/public/fN8kqCq/main/sessions/18480/98885)
+
+For background reading, I think it would be useful to read the original paper outlining the Fossilized Birth-Death method, which is linked here: [https://doi.org/10.1073/pnas.1319091111](https://doi.org/10.1073/pnas.1319091111)

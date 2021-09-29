@@ -7,7 +7,7 @@ Please join the [systematics-l listserv](listserv) if you have a UConn NetID so 
 
 ## Spring 2021 information
 
-Please choose [Schedule](schedule) from the main menu to see what we're discussing this week.
+Please choose [Schedule](schedule-fall-2021.md) from the main menu to see what we're discussing this week.
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 

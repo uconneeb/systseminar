@@ -5,7 +5,7 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sys
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 
-## Spring 2021 information
+## Fall 2021 information
 
 Please choose [Schedule](schedule-fall-2021.md) from the main menu to see what we're discussing this week.
 

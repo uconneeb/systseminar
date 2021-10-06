@@ -8,6 +8,14 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Oct. 11, 2021
+
+Paul thought this talk describing an interesting and different approach to evaluating the appropriateness of different models for continuous morphological traits would be an interesting topic for discussion: [Teisha King: Identifying atypical modes of continuous trait evolution](https://evolution.econference.io/public/fN8kqCq/main/sessions/18550)
+
+This applet provides an easy way to learn about the difference between the BM and OU models that feature in this talk: [Ornstein-Uhlenbeck vs. Brownian motion model](https://plewis.github.io/applets/ou/)
+
+You also need to know a little bit about phylogenetically independent contrasts (PIC) to understand this talk. Here is the original classic paper that introduced PIC (and also founded the field of phylogenetic comparative methods): [J Felsenstein. 1985. Phylogenies and the comparative method. The American Naturalist 125:1-15.](https://doi.org/10.1086/284325). You don't need to understand all parts of this paper in order to understand the talk. All you really need to know is what a phylogenetic independent contrast is: a measure of how different a trait is between two sister taxa. The math in this paper is all about handling the fact that there is some extra uncertainty associated with ancestral reconstructions of trait values deeper in the tree because you have not actually observed those ancestral trait values, and the amount of uncertainty grows with how far the ancestral node is from the tips of the tree (where you _can_ observe trait values).
+
 ### Oct. 4, 2021
 
 Zach will be talking about cotemporal diversification across independent lineages to infer shared evolutionary events. You can find the link the talk here: [Jamie Oaks: Expanding the space of phylogenetic trees to infer patterns predicted by shared processes of diversification](https://evolution.econference.io/public/fN8kqCq/main/sessions/18480/99926)

@@ -10,7 +10,7 @@ We are (at least at the beginning) reviewing some of the talks presented at the 
 
 ### Oct. 11, 2021
 
-Paul thought this talk describing an interesting and different approach to evaluating the appropriateness of different models for continuous morphological traits would be an interesting topic for discussion: [Teisha King: Identifying atypical modes of continuous trait evolution](https://evolution.econference.io/public/fN8kqCq/main/sessions/18550)
+Paul thought this talk describing an interesting and different approach to evaluating the appropriateness of different models for continuous morphological traits would be an interesting topic for discussion: [Teisha King: Identifying atypical modes of continuous trait evolution](https://evolution.econference.io/public/fN8kqCq/main/sessions/18550/102638)
 
 This applet provides an easy way to learn about the difference between the BM and OU models that feature in this talk: [Ornstein-Uhlenbeck vs. Brownian motion model](https://plewis.github.io/applets/ou/)
 

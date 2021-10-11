@@ -8,6 +8,10 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Oct. 18, 2021
+
+Eric Schultz has a problem that he wants to share with us this week and get our feedback on the best way to address the question. I will post some background material here later this week, but last week's talk will, I think, be relevant to Eric's problem.
+
 ### Oct. 11, 2021
 
 Paul thought this talk describing an interesting and different approach to evaluating the appropriateness of different models for continuous morphological traits would be an interesting topic for discussion: [Teisha King: Identifying atypical modes of continuous trait evolution](https://evolution.econference.io/public/fN8kqCq/main/sessions/18550/102638)

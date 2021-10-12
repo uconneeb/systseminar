@@ -10,7 +10,10 @@ We are (at least at the beginning) reviewing some of the talks presented at the 
 
 ### Oct. 18, 2021
 
-Eric Schultz has a problem that he wants to share with us this week and get our feedback on the best way to address the question. I will post some background material here later this week, but last week's talk will, I think, be relevant to Eric's problem.
+Eric Schultz has a trait evolution problem that he wants to share with us this week and get our feedback on the best way to address the question. 
+
+The trait is euryhalinity, and Eric suggested this paper as background:
+[Hutchinson, GE. 1960. On Evolutionary Euryhalinity. American Journal of Science 258A:98-103.](http://earth.geology.yale.edu/~ajs/1960/ajs_258A_11.pdf/98.pdf)
 
 ### Oct. 11, 2021
 

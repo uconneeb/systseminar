@@ -8,6 +8,14 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Oct. 25, 2021
+
+Tanner says: On Monday I will present some preliminary data for a group of geometrid moths I am revising. A pair of species in this group show obvious and discrete morphological differences, yet lack discernible genetic differences across both nuclear and mitochondrial markers. I'll introduce this handsome group and then present the taxonomic conundrum I appear to be faced with.
+
+Please find attached an older paper that looks to be situationally similar. My intention for choosing this paper is its relevance to our broader discussion, not necessarily the molecular methods ;)
+
+[Nice, CC, and AM Shapiro. 1999. Molecular and morphological divergence in the butterfly genus Lycaeides (Lepidoptera: Lycaenidae) in North America: evidence of recent speciation. J. Evol. Biol. 12:936-950. DOI:10.1046/j.1420-9101.1999.00111.x](https://doi.org/10.1046/j.1420-9101.1999.00111.x)
+
 ### Oct. 18, 2021
 
 Eric Schultz has a trait evolution problem that he wants to share with us this week and get our feedback on the best way to address the question. 

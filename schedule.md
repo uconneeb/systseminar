@@ -8,6 +8,15 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Nov. 1, 2021
+
+(Modified from Analisa's email...) Analisa would like to discuss the talk by Benjamin Toups entitled "The roots of gene tree variation: do complex models of sequence evolution reduce systematic error" about the effect of model choice on gene tree variation: [https://evolution.econference.io/public/fN8kqCq/main/sessions/18615](https://evolution.econference.io/public/fN8kqCq/main/sessions/18615)
+
+This paper provides more detail about the study referenced in the talk: 
+
+EJ Richards, JM Brown, AJ Barley, RA Chong, RC Thomson. 2018. [Variation across mitochondrial gene trees provides evidence for systematic error: how much gene tree variation is biological?](https://doi.org/10.1093/sysbio/syy013) Systematic Biology 67(5):847-860. DOI:10.1093/sysbio/syy013
+
+
 ### Oct. 25, 2021
 
 Tanner says: On Monday I will present some preliminary data for a group of geometrid moths I am revising. A pair of species in this group show obvious and discrete morphological differences, yet lack discernible genetic differences across both nuclear and mitochondrial markers. I'll introduce this handsome group and then present the taxonomic conundrum I appear to be faced with.

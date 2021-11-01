@@ -8,6 +8,16 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Nov. 8, 2021
+
+Michelle says: Next Monday I'll share some background and data on whole genome duplications (WGDs) in horseshoe crabs and other chelicerates, with a focus on phylogeny of hox gene clusters. 
+
+Teaser: Horseshoe crabs and spiders/scorpions have each experienced at least 1 round of WGD, and the question as to whether these two groups shared a WGD remains open. Phylogenomic analyses have placed ticks and mites between horseshoe crabs and spiders/scorpions, yet the apparent lack of WGD in ticks/mites has largely been ignored in regards to the shared WGD question. I am attempting to place the tick/mite group in this context using phylogenetic analysis of hox gene clusters.
+
+Although I have a few issues with it, this paper provides some decent context, particularly up to the section "Shared or independent duplications with spiders?":  
+
+[W Nong, Z Qu, Y Li, T Barton-Owen, and A Wong. 2021. Horseshoe crab genomes reveal the evolution of genes and microRNAs after three rounds of whole genome duplication. Commun Biology 4, 83. DOI:10.1038/s42003-020-01637-2](https://doi.org/10.1038/s42003-020-01637-2)
+
 ### Nov. 1, 2021
 
 (Modified from Analisa's email...) Analisa would like to discuss the talk by Benjamin Toups entitled "The roots of gene tree variation: do complex models of sequence evolution reduce systematic error" about the effect of model choice on gene tree variation: [https://evolution.econference.io/public/fN8kqCq/main/sessions/18615](https://evolution.econference.io/public/fN8kqCq/main/sessions/18615)

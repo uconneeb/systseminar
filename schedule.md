@@ -8,6 +8,14 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Nov. 15, 2021
+
+Nick says: I am suggesting that we read and discuss this paper by Mason et al. (2020):
+
+[NA Mason, NK Fletcher, BA Gill, WC Funk, and KR Zamudio. 2020. Coalescent-based species delimitation is sensitive to geographic sampling and isolation by distance. Systematics and Biodiversity 18:269-280.]( https://doi.org/10.1080/14772000.2020.1730475)
+
+This paper is highly relevant to my 2nd chapter of graduate work, and to that point I'd like to walk the group through my study system to start off the meeting. Then, we can chat about the paper and then hopefully circle back to relate it to my project, as I will be in California sampling for animals in about a month—so I'll be able to put all of your advice/thoughts into practice. 
+
 ### Nov. 8, 2021
 
 Michelle says: Next Monday I'll share some background and data on whole genome duplications (WGDs) in horseshoe crabs and other chelicerates, with a focus on phylogeny of hox gene clusters. 

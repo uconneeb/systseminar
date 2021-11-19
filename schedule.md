@@ -8,6 +8,23 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Dec. 6, 2021
+
+Analisa and Paul will discuss a manuscript they are working on with colleagues from the UConn Statistics department. More later...
+
+### Nov. 29, 2021
+
+(Modified from Kris's email...) Kris would like to discuss the talk by Samuel Hibdige entitled "Widespread lateral gene transfer among grasses":
+[https://evolution.econference.io/public/fN8kqCq/main/sessions/18525](https://evolution.econference.io/public/fN8kqCq/main/sessions/18525/102523)
+
+This paper provides more detail about the study referenced in the talk: 
+
+SG Hibdige, P Raimondeau, PA Christin, LT Dunning. 2021. [Widespread lateral gene transfer among grasses.](https://doi.org/10.1111/nph.17328) New Phytologist, 230(6):2474-2486. DOI:10.1111/nph.17328
+
+### Nov. 22, 2021
+
+No class, Thanksgiving break week
+
 ### Nov. 15, 2021
 
 Nick says: I am suggesting that we read and discuss this paper by Mason et al. (2020):

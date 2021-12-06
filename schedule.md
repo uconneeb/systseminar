@@ -8,6 +8,16 @@ We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [sys
 
 We are (at least at the beginning) reviewing some of the talks presented at the Evolution meetings this past summer, the videos of which will be available all semester (and it only costs $10 to gain access at this late date).
 
+### Dec. 7, 2021
+
+From Paul's email: Analisa will discuss a new method for estimating marginal likelihoods that we've been working on in collaboration with our colleagues in the Statistics department. We don't yet have a complete manuscript for you to read as background, so we thought everyone who wanted some background could instead watch the following 15 minute segment of my Phyloseminar Primer on Bayesian phylogenetics, which discusses how marginal likelihoods are estimated and why we might want to estimate them:
+
+Go to http://phyloseminar.org/recorded.html 
+Scroll down to Primer part 3b, dated June 27, 2018
+The segment to watch starts at 38:40 and goes to 53:45.
+
+Please don't fret about the details of the Steppingstone method presented in the Primer - Analisa will be talking about a totally new method that has nothing to do with steppingstone except that the goal of both is to estimate the marginal likelihood.
+
 ### Nov. 29, 2021
 
 (Modified from Kris's email...) Kris would like to discuss the talk by Samuel Hibdige entitled "Widespread lateral gene transfer among grasses":

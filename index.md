@@ -5,13 +5,18 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sys
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 
-## Fall 2021 information
+## Spring 2022 information
 
-Please choose [Schedule](schedule-fall-2021.md) from the main menu to see what we're discussing this week.
+We've merged with [Seminar in Comparative Biology](https://uconneeb.github.io/classicworks/) this semester.
 
+{% comment %}
 If you need a permission number for this course, see the [Contact](contact-info) page.
+{% endcomment %}
 
 ## Past semesters ##
+
+[Schedule Fall 2021](schedule-fall-2021.md)
+
 [Schedule Spring 2021](schedule-spring-2021.md)
 
 [Schedule Fall 2020](schedule-fall-2020.md)

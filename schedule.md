@@ -6,6 +6,10 @@ permalink: /schedule/
 
 We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### October 4, 2022
+
+We will read the fourth chapter of the Revell and Harmon book (PGLS). 
+
 ### September 27, 2022
 
 Mark Stukel will lead discussion on the following paper:

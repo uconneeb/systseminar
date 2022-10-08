@@ -8,7 +8,7 @@ We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W4
 
 ### October 11, 2022
 
-TBD.
+We will read the 5th chapter of the Revell and Harmon book (extend BM and OU models by allowing rates and correlations to vary across the tree). 
 
 ### October 4, 2022
 

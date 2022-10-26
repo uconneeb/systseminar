@@ -6,6 +6,16 @@ permalink: /schedule/
 
 We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### November 1, 2022
+
+Zach will lead discussion on this paper:
+
+CJ Pardo-De la Hoz, ID Medeiros, JP Gibert, P-L Chagnon, N Magain, J Miadlikowska, and F Lutzoni. 2022. [Phylogenetic structure of specialization: a new approach that integrates partner availability and phylogenetic diversity to quantify biotic specialization in ecological networks.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8888259/pdf/ECE3-12-e8649.pdf) Ecology and Evolution 12(3):e8649. [DOI:10.1002/ece3.8649](https://doi.org/10.1002/ece3.8649)
+
+### October 25, 2022
+
+We will read chapter 6 of the Revell and Harmon book (discrete morphology models). 
+
 ### October 18, 2022
 
 This week we decided to read Revell's Phylogenetic PCA paper now that this method has been mentioned in a couple of chapters:

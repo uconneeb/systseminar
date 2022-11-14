@@ -6,6 +6,26 @@ permalink: /schedule/
 
 We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### December 5, 2022
+
+TBD
+
+### November 28, 2022
+
+TBD
+
+### November 21, 2022
+
+Not meeting - Thanksgiving Break Week
+
+### November 14, 2022
+
+This week we will tackle the last part (section 7.4 to the end) of the long chapter 7 in the Revell and Harmon book.
+
+### November 7, 2022
+
+This week we are tackling the first part (through section 7.3) of the long chapter 7 in the Revell and Harmon book.
+
 ### November 1, 2022
 
 Zach will lead discussion on this paper:

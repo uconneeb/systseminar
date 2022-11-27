@@ -6,13 +6,13 @@ permalink: /schedule/
 
 We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
-### December 5, 2022
+### December 6, 2022
 
 TBD
 
-### November 28, 2022
+### November 29, 2022
 
-TBD
+This week we will look at Chapter 8 (Ancestral State Reconstruction) in the Revell and Harmon book.
 
 ### November 21, 2022
 

@@ -8,7 +8,7 @@ We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W4
 
 ### December 6, 2022
 
-TBD
+This week we will work through Chapter 9 (Analysis of diversification with phylogenies) in the Revell and Harmon book.
 
 ### November 29, 2022
 

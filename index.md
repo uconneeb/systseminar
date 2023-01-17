@@ -5,13 +5,15 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sys
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 
-## Fall 2022 information
+## Spring 2023 information
 
-We will meet 1-2pm on Tuesdays in Gant West W416. The [schedule is here](schedule).
+We will meet this semester Mondays 10-11 in Gant W416. The [schedule is here](schedule).
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 
 ## Schedules from the recent past ##
+
+[Schedule Fall 2022](schedule-fall-2022)
 
 [Schedule Spring 2022](schedule-spring-2022)
 
@@ -20,3 +22,4 @@ If you need a permission number for this course, see the [Contact](contact-info)
 [Schedule Spring 2021](schedule-spring-2021)
 
 [Schedule Fall 2020](schedule-fall-2020)
+

@@ -6,6 +6,10 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### February 20, 2023
+
+This week we're working through the last part of Chapter 11 in Revell and Harmon (sections 11.3 HiSSE and 11.4 QuaSSE).
+
 ### February 13, 2023
 
 This week let's work through the first 2 major sections of Chapter 11 in the Revell and Harmon book: 11.2 BiSSE and 11.3 MuSSE. We'll save the (really long) HiSSE and QuaSSE models for a later week to avoid R coding burnout. If you finish those first 2 sections and still have some time to kill, you might want to read through the excellent paper in which the BiSSE model was introduced:

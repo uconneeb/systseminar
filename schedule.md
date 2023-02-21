@@ -6,6 +6,11 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### February 27, 2023
+
+From Frank Muzio: We decided to take a break from the book and read a paper for next week's meeting. The paper can be found here: [https://doi.org/10.1111/2041-210X.13872](https://doi.org/10.1111/2041-210X.13872)
+It is on modeling ancestral state estimation and one of the authors is a candidate for the invert position. 
+
 ### February 20, 2023
 
 This week we're working through the last part of Chapter 11 in Revell and Harmon (sections 11.3 HiSSE and 11.4 QuaSSE).

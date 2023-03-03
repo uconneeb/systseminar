@@ -6,6 +6,22 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### March 20, 2023
+
+Paul suggests this paper just out in Nature:
+
+LA Bergeron et al. 2023. [Evolution of the germline mutation rate across vertebrates.](https://doi.org/10.1038/s41586-023-05752-y) Nature DOI:10.1038/s41586-023-05752-y
+
+### March 13, 2023
+
+No meeting: spring break week
+
+### March 6, 2023
+
+From Analisa Milkey: We decided to discuss the following paper on Monday:
+
+X-X Pang and D-Y Zhang. 2023. [Impact of ghost introgression on coalescent-based species tree inference and estimation of divergence time](https://doi.org/10.1093/sysbio/syac047) Systematic Biology syac047 (advance access).
+
 ### February 27, 2023
 
 From Frank Muzio: We decided to take a break from the book and read a paper for next week's meeting. The paper can be found here: [https://doi.org/10.1111/2041-210X.13872](https://doi.org/10.1111/2041-210X.13872)

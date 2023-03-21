@@ -6,6 +6,10 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### March 27, 2023
+
+This week we're working through Chapter 12 in Revell and Harmon.  
+
 ### March 20, 2023
 
 Paul suggests this paper just out in Nature:

@@ -8,9 +8,11 @@ We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416
 
 ### April 3, 2023
 
-Paul suggests this one, but (very) happy to switch if anyone else has something they'd like to discuss:
+Paul's suggestions (very happy to consider other suggestions however):
 
-Tiley et al. 2023. [Estimation of species divergence times in presence of cross-species gene flow](https://doi.org/10.1093/sysbio/syad015). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
+MR May and CJ Rothfels. 2023. [Estimation of species divergence times in presence of cross-species gene flow](https://doi.org/10.1093/sysbio/syad010). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
+
+GP Tiley et al. 2023. [Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools](https://doi.org/10.1093/sysbio/syad015). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
 
 ### March 27, 2023
 

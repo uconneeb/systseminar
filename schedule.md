@@ -8,11 +8,7 @@ We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416
 
 ### April 3, 2023
 
-Paul's suggestions (very happy to consider other suggestions however):
-
-MR May and CJ Rothfels. 2023. [Estimation of species divergence times in presence of cross-species gene flow](https://doi.org/10.1093/sysbio/syad010). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
-
-GP Tiley et al. 2023. [Diversification models conflate likelihood and prior, and cannot be compared using conventional model-comparison tools](https://doi.org/10.1093/sysbio/syad015). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
+RH Ree and I Sanmartín. 2018. [Conceptual and statistical problems with the DEC+J model of founder-event speciation and its comparison with DEC via model selection](https://doi.org/10.1111/jbi.13173) Journal of Biogeography 45(4):741-749.
 
 ### March 27, 2023
 

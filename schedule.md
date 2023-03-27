@@ -6,6 +6,12 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### April 3, 2023
+
+Paul suggests this one, but (very) happy to switch if anyone else has something they'd like to discuss:
+
+Tiley et al. 2023. [Estimation of species divergence times in presence of cross-species gene flow](https://doi.org/10.1093/sysbio/syad015). Systematic Biology [Advance Articles](https://academic.oup.com/sysbio/advance-articles). 
+
 ### March 27, 2023
 
 This week we're working through Chapter 12 in Revell and Harmon.  

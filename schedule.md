@@ -6,6 +6,10 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### April 17, 2023
+
+MJ Landis, I Quintero, MM Muñoz, MJ Donoghue. 2022. [Phylogenetic inference of where species spread or split across barriers.](https://doi.org/10.1073/pnas.2116948119) PNAS 119(13):e2116948119. DOI:10.1073/pnas.2116948119
+
 ### April 10, 2023
 
 RH Ree and I Sanmartín. 2018. [Conceptual and statistical problems with the DEC+J model of founder-event speciation and its comparison with DEC via model selection](https://doi.org/10.1111/jbi.13173) Journal of Biogeography 45(4):741-749.

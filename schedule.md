@@ -6,6 +6,10 @@ permalink: /schedule/
 
 We are meeting this semester (Spring 2023) on Mondays 10:00-11:00pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
+### April 24, 2023
+
+This week we're working through Chapter 13 (final chapter!) in Revell and Harmon.
+
 ### April 17, 2023
 
 MJ Landis, I Quintero, MM Muñoz, MJ Donoghue. 2022. [Phylogenetic inference of where species spread or split across barriers.](https://doi.org/10.1073/pnas.2116948119) PNAS 119(13):e2116948119. DOI:10.1073/pnas.2116948119

@@ -23,6 +23,3 @@ No class, Labor Day
 No class, Thanksgiving
 ### November 27, 2023
 ### December 4, 2023
-
-
-{% endcomment %}

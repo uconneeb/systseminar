@@ -14,9 +14,14 @@ If you need a permission number for this course, see the [Contact](contact-info)
 ## Schedules from the recent past ##
 
 [Schedule Spring 2023](schedule-spring-2023)
+
 [Schedule Fall 2022](schedule-fall-2022)
+
 [Schedule Spring 2022](schedule-spring-2022)
+
 [Schedule Fall 2021](schedule-fall-2021)
+
 [Schedule Spring 2021](schedule-spring-2021)
+
 [Schedule Fall 2020](schedule-fall-2020)
 

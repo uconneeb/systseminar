@@ -10,7 +10,8 @@ We are meeting this semester (Fall 2023) on Mondays 3-4pm in Gant W416. Subscrib
 ### September 4, 2023
 No class, Labor Day
 ### September 11, 2023
-Zach will dicuss the paper Species boundaries in the messy middle—A genome-scale validation of species delimitation in a recently diverged lineage of coastal fog desert lichen fungi (https://doi.org/10.1002/ece3.8467).
+Zach will dicuss the paper Jorna et al. 2021. [Species boundaries in the messy middle—A genome-scale validation of species delimitation in a recently diverged lineage of coastal fog desert lichen fungi](https://doi.org/10.1002/ece3.8467) Ecology and Evolution 11(24):18615-18632.
+
 ### September 18, 2023
 ### September 25, 2023
 ### October 2, 2023

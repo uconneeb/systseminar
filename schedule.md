@@ -23,6 +23,11 @@ de Queiroz, K. 2007. Species concepts and species delimitation. Systematic Biolo
 
 
 ### September 18, 2023
+
+Nick Van Gilder has chosen the following paper on species delimitation in geckos for this week. This paper evaluates the sensitivity of one of the most prominent Bayesian species delimitation methods, BPP, to the guide tree and prior for theta, the parameter that determines mean time to coalescence within populations (larger values mean deeper average coalescence times, all other things equal). 
+
+AD Leaché, MK Fujita. 2010. Bayesian species delimitation in West African forest geckos (_Hemidactylus fasciatus_). Proc. R. Soc. B 277:3071-3077. [DOI:10.1098/rspb.2010.0662](https://doi.org/10.1098/rspb.2010.0662)
+
 ### September 25, 2023
 ### October 2, 2023
 ### October 9, 2023

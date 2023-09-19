@@ -30,7 +30,7 @@ AD Leaché, MK Fujita. 2010. Bayesian species delimitation in West African fores
 
 ### September 25, 2023
 
-Zach will dicuss the paper Jorna et al. 2021. [Species boundaries in the messy middle—A genome-scale validation of species delimitation in a recently diverged lineage of coastal fog desert lichen fungi](https://doi.org/10.1002/ece3.8467) Ecology and Evolution 11(24):18615-18632.
+Zach will discuss the paper Jorna et al. 2021. [Species boundaries in the messy middle—A genome-scale validation of species delimitation in a recently diverged lineage of coastal fog desert lichen fungi](https://doi.org/10.1002/ece3.8467) Ecology and Evolution 11(24):18615-18632.
 
 ### October 2, 2023
 ### October 9, 2023

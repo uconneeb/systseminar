@@ -37,6 +37,9 @@ Zach will dicuss the paper Jorna et al. 2021. [Species boundaries in the messy m
 Analisa will discuss this paper: LG Fabreti and S Höhna. [Nucleotide substitution model selection is not necessary for Bayesian inference of phylogeny with well-behaved priors](https://doi.org/10.1093/sysbio/syad041) Systematic Biology (corrected proof). DOI:[10.1093/sysbio/syad041](https://doi.org/10.1093/sysbio/syad041)
 
 ### October 9, 2023
+
+Frank will lead discussion on this paper: M Tatani, T Yamasaki, H Tanaka, T Nakata, S Chiba. 2023. [What makes the diverse flight of birds possible? Phylogenetic comparative analysis of avian alula morphology.](https://doi.org/10.1093/biolinnean/blad085) Biological Journal of the Linnean Society. DOI:[10.1093/biolinnean/blad085](https://doi.org/10.1093/biolinnean/blad085)
+
 ### October 16, 2023
 ### October 23, 2023
 ### October 30, 2023

@@ -45,6 +45,9 @@ Frank will lead discussion on this paper: M Tatani, T Yamasaki, H Tanaka, T Naka
 Chelsea will lead discussion on this paper: G Navalóne, JA Bright, J Marugán-Lobón, and EJ Rayfield. 2018. [The evolutionary relationship among beak shape, mechanical advantage, and feeding ecology in modern birds.](https://doi.org/10.1111/evo.13655) Evolution 73(3):422-435. DOI:[10.1111/evo.13655](https://doi.org/10.1111/evo.13655)
 
 ### October 23, 2023
+
+Paul will lead discussion on this paper: Y Asar, H Sauquet, and SYW Ho. 2023. [Evaluating the accuracy of methods for detecting correlated rates of molecular and morphological evolution](https://doi.org/10.1093/sysbio/syad055). Systematic Biology DOI:[10.1093/sysbio/syad055](https://doi.org/10.1093/sysbio/syad055)
+
 ### October 30, 2023
 ### November 6, 2023
 ### November 13, 2023

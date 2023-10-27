@@ -49,6 +49,11 @@ Chelsea will lead discussion on this paper: G Navalóne, JA Bright, J Marugán-L
 Paul will lead discussion on this paper: Y Asar, H Sauquet, and SYW Ho. 2023. [Evaluating the accuracy of methods for detecting correlated rates of molecular and morphological evolution](https://doi.org/10.1093/sysbio/syad055). Systematic Biology DOI:[10.1093/sysbio/syad055](https://doi.org/10.1093/sysbio/syad055)
 
 ### October 30, 2023
+
+Elizabeth will lead discussion on this paper: G Forni, J Martelossi, P Valero, FH Hennemann, O Conle, A Luchetti, and B Mantovani. 2022. [Macroevolutionary analyses provide new evidence of phasmid wings evolution as a reversible process.](https://doi.org/10.1093/sysbio/syac038) Systematic Biology 71(6):1471–1486. DOI:10.1093/sysbio/syac038
+
+Elizabeth says "It returns to an old debate about whether wings re-evolved in walking sticks, so I hope it has something for everyone, whether your interest is trait evolution, insects, or models."
+
 ### November 6, 2023
 ### November 13, 2023
 ### November 20, 2023

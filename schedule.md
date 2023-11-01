@@ -55,6 +55,10 @@ Elizabeth will lead discussion on this paper: G Forni, J Martelossi, P Valero, F
 Elizabeth says "It returns to an old debate about whether wings re-evolved in walking sticks, so I hope it has something for everyone, whether your interest is trait evolution, insects, or models."
 
 ### November 6, 2023
+
+Frank will lead discussion on this paper: Eliason et al. 2023. [Genomic signatures of convergent shifts to plunge- diving behavior in birds.](https://doi.org/10.1038/s42003-023-05359-z) Communications Biology 6:1011. DOI:[10.1038/s42003-023-05359-z](https://doi.org/10.1038/s42003-023-05359-z)
+
+
 ### November 13, 2023
 ### November 20, 2023
 No class, Thanksgiving

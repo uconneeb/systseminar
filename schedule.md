@@ -58,9 +58,15 @@ Elizabeth says "It returns to an old debate about whether wings re-evolved in wa
 
 Frank will lead discussion on this paper: Eliason et al. 2023. [Genomic signatures of convergent shifts to plunge- diving behavior in birds.](https://doi.org/10.1038/s42003-023-05359-z) Communications Biology 6:1011. DOI:[10.1038/s42003-023-05359-z](https://doi.org/10.1038/s42003-023-05359-z)
 
-
 ### November 13, 2023
+
+Kyle will lead discussion on this paper on some misplaced tiger beetles: Duran et al. 2020. [Geographic life history differences predict genomic divergence better than mitochondrial barcodes or phenotype](https://doi.org/10.3390/genes11030265) Genes 11:265 (22 pages). DOI:[10.3390/genes11030265](https://doi.org/10.3390/genes11030265)
+ 
 ### November 20, 2023
 No class, Thanksgiving
+
 ### November 27, 2023
+
+Zach chose this paper on scrub jay speciation: DA DeRaad, JE McCormack, N Chen, AT Peterson, and RG Moyle. 2022. [Combining species delimitation, species trees, and tests for gene flow clarifies complex speciation in scrub-jays.](https://doi.org/10.1093/sysbio/syac034) Systematic Biology 71(6):1453-1470. DOI: [10.1093/sysbio/syac034](https://doi.org/10.1093/sysbio/syac034)
+
 ### December 4, 2023

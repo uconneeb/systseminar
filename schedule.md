@@ -70,3 +70,8 @@ No class, Thanksgiving
 Zach chose this paper on scrub jay speciation: DA DeRaad, JE McCormack, N Chen, AT Peterson, and RG Moyle. 2022. [Combining species delimitation, species trees, and tests for gene flow clarifies complex speciation in scrub-jays.](https://doi.org/10.1093/sysbio/syac034) Systematic Biology 71(6):1453-1470. DOI: [10.1093/sysbio/syac034](https://doi.org/10.1093/sysbio/syac034)
 
 ### December 4, 2023
+
+Last paper of the semester: JO Wolff, K Wierucka, GBN Paterno, JA Coddington, G Hormiga, MBJ Kelly, ME Herberstein, and MJ Ramirez. 2022. [Stabilized morphological evolution of spiders despite mosaic changes in foraging ecology.](https://doi.org/10.1093/sysbio/syac023) Systematic Biology 71(6):1487-1503. DOI:[10.1093/sysbio/syac023]](https://doi.org/10.1093/sysbio/syac023)
+
+
+

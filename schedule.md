@@ -18,7 +18,7 @@ S Tarasov. 2023. new phylogenetic Markov models for inapplicable morphological c
 
 ### February 5, 2024
 
-Chelsea: Zimova et al.  
+Chelsea: M Zimova, BC Weeks, DE Willard, ST Giery, V Jirinec, RC Burner, and BM Winger. 2023. Body size predicts the rate of contemporary morphological change in birds. Proceedings of the National Academy of Sciences, USA. 120(20):e2206971120. [DOI: 10.1073/pnas.2206971120](https://doi.org/10.1073/pnas.2206971120)
 
 ### February 12, 2024
 

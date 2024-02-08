@@ -22,7 +22,7 @@ Chelsea: M Zimova, BC Weeks, DE Willard, ST Giery, V Jirinec, RC Burner, and BM 
 
 ### February 12, 2024
 
-Analisa: Thompson et al. deep learning in phylogenetics
+Analisa: A Thompson, B Liebeskind, EJ Scully, M Landis. 2024. Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology [DOI: 10.1093/sysbio/syad074](https://doi.org/10.1093/sysbio/syad074)
 
 ### February 19, 2024
 

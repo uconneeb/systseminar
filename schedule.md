@@ -26,7 +26,8 @@ Analisa: A Thompson, B Liebeskind, EJ Scully, M Landis. 2024. Deep learning and 
 
 ### February 19, 2024
 
-Mark: Budd and Mann relaxed clock age estimates
+Mark: GE Budd and RP Mann. 2023. Two notorious nodes: a critical examination of relaxed molecular clock age
+estimates of the bilaterian animals and placental mammals. Systematic Biology Advance Access [10.1093/sysbio/syad057](https://doi.org/10.1093/sysbio/syad057)
 
 ### February 26, 2024
 

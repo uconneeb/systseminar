@@ -35,6 +35,8 @@ Nick: LM Wootton, F Forest, and GA Verboom. 2023. Consilience across multiple, i
 
 ### March 4, 2024
 
+Frank: Y Kiat and JK O’Connor. 2024. Functional constraints on the number and shape of flight feathers. PNAS 121(8):e2306639121 [DOI:10.1073/pnas.2306639121](https://doi.org/10.1073/pnas.2306639121)
+
 ### March 11, 2024
 
 No class, spring break week

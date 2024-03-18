@@ -43,7 +43,11 @@ No class, spring break week
 
 ### March 18, 2024
 
+Chelsea: He et al. 2024. Challenges and opportunities in applying AI to evolutionary morphology. EcoRXiv https://doi.org/10.32942/X2S315
+
 ### March 25, 2024
+
+Analisa: J Truskowski, A Perrico, D. Broman₃ F. Ronquist, and A. Antonelli. 2023. Online tree expansion could help solve the problem of scalability in Bayesian phylogenetics. Systematic Biology 72:1199–1206. [DOI:10.1093/sysbio/syad045](https://doi.org/10.1093/sysbio/syad045)
 
 ### April 1, 2024
 

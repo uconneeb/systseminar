@@ -59,6 +59,9 @@ Today we will discuss systematics while watching projections of the eclipse!
  
 ### April 15, 2024
 
+ 
+Nick: FT Burbrink, BI Crother, CM Murray, BT Smith, S Ruane, EA Myers, RA Pyron. 2022. Empirical and philosophical problems with the subspecies rank. Ecology and Evolution 12:e9069. [DOI:10.1002/ece3.9069](https://doi.org/10.1002/ece3.9069)
+
 ### April 22, 2024
 
 

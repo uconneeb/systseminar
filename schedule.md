@@ -4,54 +4,55 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2024) on TBD in TBD. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
+We are meeting this semester (Fall 2024) on Fridays from 1:20 to 2:20 in PBB 303 (i.e. BioPharm 3rd. floor fishbowl). Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
-Note: dates below will possibly change depending on which day of the week we decide to meet.
-
-### August 26, 2024
+### August 30, 2024
 
 This first meeting, those who are registered will sign up for a date to lead, and we'll have an informal discussion of what everyone's working on and what kind of seminar they want this to be this semester.
 
-### September 2, 2024
+### September 6, 2024
+
+This week we will start working on our minitheme of species delimitation by reading this chapter from a recently published book:
+
+ML Smith and BC Carstens. 2022. Species delimitation using molecular data. Chapter 7 in: JS Wilkins, FE Zachos, and IY Pavlinov (eds.), _Species problems and beyond: contemporary issues in philosophy and practice_, 1st ed. CRC Press ISBN 9780367855604.
+
+### September 13, 2024
 
 
-### September 9, 2024
+### September 20, 2024
 
 
-### September 16, 2024
+### September 27, 2024
 
 
-### September 23, 2024
+### October 4, 2024
 
 
-### September 30, 2024
+### October 11, 2024
 
 
-### October 7, 2024
+### October 18, 2024
 
 
-### October 14, 2024
+### October 25, 2024
 
 
-### October 21, 2024
+### November 1, 2024
 
 
-### October 28, 2024
-
-
-### November 4, 2024
-
-
-### November 11, 2024
-
- 
-### November 18, 2024
+### November 8, 2024
 
  
-### November 25, 2024
+### November 15, 2024
+
+ 
+### November 22, 2024
+
+
+### November 29, 2024
 
 No Class: Thanksgiving Break Week
 
-### December 2, 2024
+### December 6, 2024
 
 

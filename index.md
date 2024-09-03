@@ -7,10 +7,7 @@ Please join the [systematics-l listserv](listserv) if you have a UConn NetID so 
 
 ## Fall 2024 information
 
-As of August 23, 2024, we are still in the process of deciding when and where to meet.
-{% comment %}
-We will meet this semester Mondays 3-4 in Gant W416. The [schedule is here](schedule).
-{% endcomment %}
+We will meet this semester Fridays 1:20-2:20 in PBB 303 (BioPharm 3rd. floor fishbowl). The [schedule is here](schedule).
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 

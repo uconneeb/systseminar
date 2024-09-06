@@ -18,6 +18,9 @@ ML Smith and BC Carstens. 2022. Species delimitation using molecular data. Chapt
 
 ### September 13, 2024
 
+We will discuss this paper, which is one of the few methods that does not require many loci.
+
+Puillandre, N., A. Lambert, S. Brouillet, and G. Achaz. 2012. [ABGD, automatic barcode gap discovery for primary species delimitation.](https://doi.org/10.1111/j.1365-294X.2011.05239.x) Molecular Ecology 21:1864–1877. DOI:10.1111/j.1365-294X.2011.05239.x
 
 ### September 20, 2024
 

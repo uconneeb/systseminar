@@ -20,10 +20,13 @@ ML Smith and BC Carstens. 2022. Species delimitation using molecular data. Chapt
 
 We will discuss this paper, which is one of the few methods that does not require many loci.
 
-Puillandre, N., A. Lambert, S. Brouillet, and G. Achaz. 2012. [ABGD, automatic barcode gap discovery for primary species delimitation.](https://doi.org/10.1111/j.1365-294X.2011.05239.x) Molecular Ecology 21:1864–1877. DOI:10.1111/j.1365-294X.2011.05239.x
+N Puillandre, A Lambert, S Brouillet, and G Achaz. 2012. [ABGD, automatic barcode gap discovery for primary species delimitation.](https://doi.org/10.1111/j.1365-294X.2011.05239.x) Molecular Ecology 21:1864–1877. DOI:10.1111/j.1365-294X.2011.05239.x
 
 ### September 20, 2024
 
+Nick chose the paper below to discuss this week. He says "This paper will examine the difference in results between 5 different delimitation methods, including ABGD. It also is on the more digestible side as it only involves one mitochondrial locus, which should offer us more chances for discussion about barcoding."
+
+C Blair and RW Bryson Jr. 2017. [Cryptic diversity and discordance in single-locus species delimitation methods within horned lizards (Phrynosomatidae: Phrynosoma).](https://doi.org/10.1111/1755-0998.12658) Molecular Ecology Resources 17:1168–1182. DOI:10.1111/1755-0998.12658
 
 ### September 27, 2024
 

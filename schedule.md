@@ -28,7 +28,13 @@ Nick chose the paper below to discuss this week. He says "This paper will examin
 
 C Blair and RW Bryson Jr. 2017. [Cryptic diversity and discordance in single-locus species delimitation methods within horned lizards (Phrynosomatidae: Phrynosoma).](https://doi.org/10.1111/1755-0998.12658) Molecular Ecology Resources 17:1168–1182. DOI:10.1111/1755-0998.12658
 
+Discussion of this paper was postponed until October 4 because we did not have a quorum.
+
 ### September 27, 2024
+
+Mark Stukel selected this paper introducing SPEEDEMON:
+
+J Douglas and R Bouckaert. 2022. [Quantitatively defining species boundaries with more efficiency and more biological realism](https://doi.org/10.1038/s42003-022-03723-z). Communications Biology 5:755. DOI:10.1038/s42003-022-03723-z 
 
 
 ### October 4, 2024

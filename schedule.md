@@ -39,6 +39,7 @@ J Douglas and R Bouckaert. 2022. [Quantitatively defining species boundaries wit
 
 ### October 4, 2024
 
+This week we are going to discuss the paper (Blair and Bryson 2017) that Nick chose for Sep. 20.
 
 ### October 11, 2024
 

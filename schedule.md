@@ -43,6 +43,13 @@ This week we are going to discuss the paper (Blair and Bryson 2017) that Nick ch
 
 ### October 11, 2024
 
+Zach suggests the following two papers related to GDI (Genealogical Divergence Index). 
+
+AD Leaché, T Zhu, B Rannala, Z Yang. 2019. The spectre of too many species. Systematic Biology 68(1):168-181. DOI:[10.1093/sysbio/syy051](https://doi.org/10.1093/sysbio/syy051)
+
+ND Jackson, BC Carstens, AE Morales, BC O'Meara. 2017. Species delimitation with gene flow. Systematic Biology 66(5):799-812. DOI:[10.1093/sysbio/syw117](https://doi.org/10.1093/sysbio/syw117)
+
+Zach suggests we read the Jackson et al. paper first and save Leaché et al. for later.
 
 ### October 18, 2024
 

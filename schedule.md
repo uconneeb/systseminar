@@ -53,8 +53,15 @@ Zach suggests we read the Jackson et al. paper first and save Leaché et al. for
 
 ### October 18, 2024
 
+This is a follow-up paper to the one we read last week, presenting the BPP perspective:
+
+AD Leaché, T Zhu, B Rannala, Z Yang. 2019. The spectre of too many species. Systematic Biology 68(1):168-181. DOI:[10.1093/sysbio/syy051](https://doi.org/10.1093/sysbio/syy051)
 
 ### October 25, 2024
+
+Given that Mark will be defending Oct. 25 at 4pm, let's read his first chapter for Systematics Seminar this week:
+
+M Stukel, AE Porczak, ERL Gordon, J Vailionis, D Haji, TR Buckley, AR Lemmon, RM Lemmon, C Simon. 2023. Phylogenomics improves the phylogenetic resolution and provides strong evidence of mito-nuclear discordance in two genera of a New Zealand cicada (Hemiptera: Cicadidae) species radiation. Systematic Entomology 49:237-257. DOI: [10.1111/syen.12613](https://doi.org/10.1111/syen.12613)
 
 
 ### November 1, 2024

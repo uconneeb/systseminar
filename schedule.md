@@ -66,6 +66,9 @@ M Stukel, AE Porczak, ERL Gordon, J Vailionis, D Haji, TR Buckley, AR Lemmon, RM
 
 ### November 1, 2024
 
+Chelsea would like to discuss this paper:
+
+PL McInerney, MSY Lee, AM Clement and TH Worthy. 2019. The phylogenetic significance of the morphology of the syrinx, hyoid and larynx, of the southern cassowary, Casuarius casuarius (Aves, Palaeognathae). BMC Evol. Biol. 19: 233. DOI:[10.1186/s12862-019-1544-7](https://doi.org/10.1186/s12862-019-1544-7)
 
 ### November 8, 2024
 

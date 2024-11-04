@@ -74,7 +74,7 @@ PL McInerney, MSY Lee, AM Clement and TH Worthy. 2019. The phylogenetic signific
 
 Analisa chose the following paper, which explains how the local posterior probabilities reported by the program ASTRAL are calculated:
 
-E Sayyari1 and S Mirarab. 2016. Fast coalescent-based computation of local branch support from quartet frequencies. Molecular Biology and Evolution 33(7):1654-1668. DOI:[10.1093/molbev/msw079](https://10.1093/molbev/msw079)
+E Sayyari and S Mirarab. 2016. Fast coalescent-based computation of local branch support from quartet frequencies. Molecular Biology and Evolution 33(7):1654-1668. DOI:[10.1093/molbev/msw079](https://doi.org/10.1093/molbev/msw079)
 
 ### November 15, 2024
 

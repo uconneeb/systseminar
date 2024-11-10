@@ -78,9 +78,15 @@ E Sayyari and S Mirarab. 2016. Fast coalescent-based computation of local branch
 
 ### November 15, 2024
 
+Paul chose the following paper for this week:
+
+N. Koch. 2021. Phylogenomic subsampling and the search for phylogenetically reliable loci. Molecular Biology and Evolution 38(9):4025-4038. DOI:[10.1093/molbev/msab151](https://doi.org/10.1093/molbev/msab151)
  
 ### November 22, 2024
 
+Bernard chose the following paper:
+
+Meleshko et al. 2021. Extensive genome-wide phylogenetic discordance is due to incomplete lineage sorting and not ongoing introgression in a rapidly radiated bryophyte genus. Molecular Biology and Evolution Advance Access. DOI:[10.1093/molbev/msab063](https://doi.org/10.1093/molbev/msab063)
 
 ### November 29, 2024
 

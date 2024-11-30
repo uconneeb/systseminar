@@ -94,4 +94,8 @@ No Class: Thanksgiving Break Week
 
 ### December 6, 2024
 
+If no one else would like to volunteer, we can read the following paper for this week:
 
+NB Edelman et al. 2019. Genomic architecture and introgression shape a butterfly radiation. Science 366:594–599. DOI:[10.1126/science.aaw2090](https://doi.org/10.1126/science.aaw2090)
+
+This is the paper that introduces the QuIBL method used in the Meleshko et al. (2021) paper we read on Nov. 22.

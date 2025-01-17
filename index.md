@@ -5,13 +5,15 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sem
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 
-## Fall 2024 information
+## Spring 2025 information
 
-We will meet this semester Fridays 1:20-2:20 in PBB 303 (BioPharm 3rd. floor fishbowl). The [schedule is here](schedule).
+We will meet this semester Fridays 10-11 in TLS 171b (the Bamford Conference room). The [schedule is here](schedule).
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 
 ## Schedules from the recent past ##
+
+[Schedule Fall 2024](schedule-fall-2024)
 
 [Schedule Spring 2024](schedule-spring-2024)
 

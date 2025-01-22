@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Spring 2025) on Fridays from 11:15-12:05 (hopefully) in TLS 171b (i.e. the Bamford Conference Room). Note: the room has not yet been confirmed.
+We are meeting this semester (Spring 2025) on Fridays from 11:15-12:05 in TLS 171b (i.e. the Bamford Conference Room).
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 

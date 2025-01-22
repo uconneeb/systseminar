@@ -7,7 +7,7 @@ Please join the [systematics-l listserv](listserv) if you have a UConn NetID so 
 
 ## Spring 2025 information
 
-We will meet this semester Fridays 11:15 in (hopefully) TLS 171b (the Bamford Conference room). The room location has yet to be confirmed. The [schedule is here](schedule).
+We will meet this semester Fridays 11:15 in TLS 171b (the Bamford Conference room). The [schedule is here](schedule).
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 

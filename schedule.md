@@ -18,29 +18,56 @@ R Hunt, JL Reyes-Hernández, JJ Shaw, A Solodovnikov, and KS Pedersen. 2025. Int
 
 ### January 31, 2025
 
+Nick Van Gilder
+
 ### February 7, 2025
+
+Analisa Milkey
 
 ### February 14, 2025
 
+Meghan Myles
+
 ### February 21 2025
+
+Zach Muscavitch
 
 ### February 28, 2025
 
+Analisa Milkey
+
 ### March 7, 2025
+
+Jeremy Quirõs-Navarro
 
 ### March 14, 2025
 
+Noah Manuel
+
 ### March 21, 2025
+
+SPRING BREAK WEEK
 
 ### March 28, 2025
 
+Zach Muscavitch
+
 ### April 4, 2025
+
+Nick Van Gilder (data talk)
 
 ### April 11, 2025
 
+Chelsea Kintz
+
 ### April 18, 2025
+
+Jeremy Quirõs-Navarro
 
 ### April 25, 2025
 
+Noah Manuel
+
 ### May 2, 2025
 
+Meghan Myles

@@ -18,7 +18,9 @@ R Hunt, JL Reyes-Hernández, JJ Shaw, A Solodovnikov, and KS Pedersen. 2025. Int
 
 ### January 31, 2025
 
-Nick Van Gilder
+Nick Van Gilder will lead discussion on phylogenomic discordance in rattlesnakes:
+
+EA Myers, RM Rautsaw, M Borja, J Jones, CI Grünwald, ML Holding, FG Grazziotin, CL Parkinson. 2024. Phylogenomic discordance is driven by wide-spread introgression and incomplete lineage sorting during rapid species diversification within rattlesnakes (viperidae: _Crotalus_ and _Sistrurus_). Systematic Biology 73(4):722-741. [DOI:10.1093/sysbio/syae018](https://doi.org/10.1093/sysbio/syae018)
 
 ### February 7, 2025
 

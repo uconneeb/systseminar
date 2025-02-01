@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
+permalink: /schedule-fall-2024/
 ---
 
 We are meeting this semester (Fall 2024) on Fridays from 1:20 to 2:20 in PBB 303 (i.e. BioPharm 3rd. floor fishbowl). Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).

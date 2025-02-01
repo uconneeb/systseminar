@@ -24,7 +24,9 @@ EA Myers, RM Rautsaw, M Borja, J Jones, CI Grünwald, ML Holding, FG Grazziotin,
 
 ### February 7, 2025
 
-Analisa Milkey
+Analisa Milkey will lead discussion on the following paper:
+
+C Zhang, R Nielsen, and S Mirarab. 2025. CASTER: Direct species tree inference from whole-genome alignments. Science (early access) [DOI:10.1126/science.adk9688](https://doi.org/10.1126/science.adk9688)
 
 ### February 14, 2025
 

@@ -30,7 +30,7 @@ C Zhang, R Nielsen, and S Mirarab. 2025. CASTER: Direct species tree inference f
 
 ### February 14, 2025
 
-Meghan Myles
+We will revisit the Zhang et al. CASTER paper again this week, focussing on the analyses of empirical data sets.
 
 ### February 21 2025
 
@@ -38,7 +38,7 @@ Zach Muscavitch
 
 ### February 28, 2025
 
-Analisa Milkey
+Meghan Myles
 
 ### March 7, 2025
 

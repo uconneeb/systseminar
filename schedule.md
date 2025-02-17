@@ -34,7 +34,7 @@ We will revisit the Zhang et al. CASTER paper again this week, focussing on the 
 
 ### February 21 2025
 
-Zach Muscavitch
+No meeting this week due to overlap with the Graduate Mental Health Workshop.
 
 ### February 28, 2025
 

@@ -38,7 +38,9 @@ No meeting this week due to overlap with the Graduate Mental Health Workshop.
 
 ### February 28, 2025
 
-Meghan Myles
+Meghan Myles chose this paper for this week:
+
+JB Thompson, T Hernández-Hernándex, G Keeling, M Vásquez-Cruz, and NK Priest. 2024. Identifying the multiple driveers of cactus diversifiction. Nature Communications 15:7282. [DOI:10.1126/science.adk9688]([DOI:10.1126/science.adk9688](https://doi.org/10.1126/science.adk9688))
 
 ### March 7, 2025
 

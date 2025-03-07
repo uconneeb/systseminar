@@ -44,7 +44,9 @@ JB Thompson, T Hernández-Hernándex, G Keeling, M Vásquez-Cruz, and NK Priest.
 
 ### March 7, 2025
 
-Jeremy Quirõs-Navarro
+Jeremy Quirõs-Navarro will discuss the following paper:
+
+LJ Revell, LJ Harmon, and DC Collar. 2008. Phylogenetic signal, evolutionary process, and rate. Systematic Biology 57(4):   591-601. DOI:[10.1080/10635150802302427](https://doi.org/10.1080/10635150802302427)
 
 ### March 14, 2025
 

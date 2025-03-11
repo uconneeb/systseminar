@@ -50,7 +50,9 @@ LJ Revell, LJ Harmon, and DC Collar. 2008. Phylogenetic signal, evolutionary pro
 
 ### March 14, 2025
 
-Noah Manuel
+Noah Manuel will lead discussion on this paper:
+
+K Mark, L Saag, SD Leavitt, S Will-Wolf, MP Nelsen, T Tõrra, A Saag, T Randlane, and HT Lumbsch. 2016. Evaluation of traditionally circumscribed species in the lichen-forming genus _Usnea_, section _Usnea_ (Parmeliaceae, Ascomycota) using a six-locus dataset. Organisms, Diversity, and Evolution 16:497-524. DOI:[10.1007/s13127-016-0273-7](https://doi.org/10.1007/s13127-016-0273-7)
 
 ### March 21, 2025
 

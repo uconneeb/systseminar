@@ -60,7 +60,9 @@ SPRING BREAK WEEK
 
 ### March 28, 2025
 
-Zach Muscavitch
+Zach Muscavitch will lead discussion on this paper:
+
+Benoît Perez-Lamarque & Hélène Morlon. 2024. Distinguishing cophylogenetic signal from phylogenetic congruence clarifies the interplay between evolutionary history and species interactions. Systematic Biology 73(3):613–622, DOI:[10.1093/sysbio/syae013](https://doi.org/10.1093/sysbio/syae013)
 
 ### April 4, 2025
 

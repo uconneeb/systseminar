@@ -66,7 +66,9 @@ Benoît Perez-Lamarque & Hélène Morlon. 2024. Distinguishing cophylogenetic si
 
 ### April 4, 2025
 
-Nick Van Gilder (data talk)
+Paul chose the following paper for this week:
+
+JF Walker, SA Smith, RGJ Hodel, and E Moyroud. 2022. Concordance-Based Approaches for the Inference of Relationships and Molecular Rates with Phylogenomic Data Sets. Syst. Biol. 71(4):943–958. DOI:[10.1093/sysbio/syab052](https://doi.org/10.1093/sysbio/syab052)
 
 ### April 11, 2025
 

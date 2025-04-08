@@ -72,7 +72,10 @@ JF Walker, SA Smith, RGJ Hodel, and E Moyroud. 2022. Concordance-Based Approache
 
 ### April 11, 2025
 
-Chelsea Kintz
+Chelsea Kintz will lead discussion on this paper:
+
+DM Casali, FV Freitas, and FA Perini. 2023. Evaluating the impact of anatomical partitioning on summary topologies obtained with Bayesian phylogenetic analyses of morphological data. Systematic Biology 72(1):62–77.
+DOI:[10.1093/sysbio/syac076](https://doi.org/10.1093/sysbio/syac076)    
 
 ### April 18, 2025
 

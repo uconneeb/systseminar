@@ -79,7 +79,9 @@ DOI:[10.1093/sysbio/syac076](https://doi.org/10.1093/sysbio/syac076)
 
 ### April 18, 2025
 
-Jeremy Quirõs-Navarro
+Combined Systematics Seminar and Plant Lunch visit with Pam and Doug Soltis.
+
+Note: we are beginning at 11am this week because Pam and Doug must depart for the airport at noon.
 
 ### April 25, 2025
 

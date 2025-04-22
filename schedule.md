@@ -85,7 +85,9 @@ Note: we are beginning at 11am this week because Pam and Doug must depart for th
 
 ### April 25, 2025
 
-Noah Manuel
+Noah Manuel will lead discussion on the following paper:
+
+P Resl et al. 2022. Large differences in carbohydrate degradation and transport potential among lichen fungal symbionts. Nature Communications 13:2634. DOI:[10.1038/s41467-022-30218-6](https://doi.org/10.1038/s41467-022-30218-6)
 
 ### May 2, 2025
 

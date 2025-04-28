@@ -91,4 +91,8 @@ P Resl et al. 2022. Large differences in carbohydrate degradation and transport 
 
 ### May 2, 2025
 
-Meghan Myles
+Meghan Myles will lead discussion on the following paper:
+
+L Guo, X Wang, DH Ayhan, et al. 2025. Super pangenome of _Vitis_ empowers identification of downy mildew resistance genes for grapevine improvement. Nature Genetics 57:741–753 DOI:[10.1038/s41588-025-02111-7](https://doi.org/10.1038/s41588-025-02111-7)
+
+

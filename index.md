@@ -5,13 +5,15 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sem
 
 Please join the [systematics-l listserv](listserv) if you have a UConn NetID so you will not miss out on important announcements.
 
-## Spring 2025 information
+## Fall 2025 information
 
-We will meet this semester Fridays 11:15 in TLS 171b (the Bamford Conference room). The [schedule is here](schedule).
+We have not yet decided when or where to meet this semester. Information about time and place will be listed in the  [schedule](schedule) once it is decided.
 
 If you need a permission number for this course, see the [Contact](contact-info) page.
 
 ## Schedules from the recent past ##
+
+[Schedule Spring 2025](schedule-spring-2025)
 
 [Schedule Fall 2024](schedule-fall-2024)
 

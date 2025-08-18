@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule (Fall 2020)
-permalink: /schedule-fall-2020/
+permalink: /schedule-fall2020/
 ---
 We meet Thursdays 2:30 - 3:30. Connection info will be disseminated via the [systematics listserv](/systseminar/listserv/).
 

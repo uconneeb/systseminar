@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule (Spring 2021)
-permalink: /schedule-spring-2021/
+permalink: /schedule-spring2021/
 ---
 
 We are meeting this semester on Wednesdays 1:30-2:30pm online. We are planning to work through selected chapters of the book "Tree thinking: an introduction to phylogenetic biology" (D. A. Baum and S. D. Smith. 2013. Roberts and Company, Publishers, Greenwood Village, Colorado), supplemented by additional papers on specific topics.

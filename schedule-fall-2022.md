@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule-fall-2022/
+permalink: /schedule-fall2022/
 ---
 
 We are meeting this semester (Fall 2022) on Tuesdays 1:00-2:00pm in Gant West W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).

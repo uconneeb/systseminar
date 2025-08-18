@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule (Fall 2021)
-permalink: /schedule-fall-2021/
+permalink: /schedule-fall2021/
 ---
 
 We are meeting this semester on Mondays at 8:00-9:00am online. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).

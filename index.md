@@ -13,23 +13,23 @@ If you need a permission number for this course, see the [Contact](contact-info)
 
 ## Schedules from the recent past ##
 
-[Schedule Spring 2025](schedule-spring-2025)
+[Schedule Spring 2025](schedule-spring2025)
 
-[Schedule Fall 2024](schedule-fall-2024)
+[Schedule Fall 2024](schedule-fall2024)
 
-[Schedule Spring 2024](schedule-spring-2024)
+[Schedule Spring 2024](schedule-spring2024)
 
-[Schedule Fall 2023](schedule-fall-2023)
+[Schedule Fall 2023](schedule-fall2023)
 
-[Schedule Spring 2023](schedule-spring-2023)
+[Schedule Spring 2023](schedule-spring2023)
 
-[Schedule Fall 2022](schedule-fall-2022)
+[Schedule Fall 2022](schedule-fall2022)
 
-[Schedule Spring 2022](schedule-spring-2022)
+[Schedule Spring 2022](schedule-spring2022)
 
-[Schedule Fall 2021](schedule-fall-2021)
+[Schedule Fall 2021](schedule-fall2021)
 
-[Schedule Spring 2021](schedule-spring-2021)
+[Schedule Spring 2021](schedule-spring2021)
 
-[Schedule Fall 2020](schedule-fall-2020)
+[Schedule Fall 2020](schedule-fall2020)
 

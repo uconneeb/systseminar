@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule-fall-2023/
+permalink: /schedule-fall2023/
 ---
 
 We are meeting this semester (Fall 2023) on Mondays 3-4pm in Gant W416. Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).

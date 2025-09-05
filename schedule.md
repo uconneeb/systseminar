@@ -25,6 +25,13 @@ Systematic Biology 74(1):1–15
 DOI:[10.1093/sysbio/syae053](https://doi.org/10.1093/sysbio/syae053)
 
 ### September 12, 2025
+
+Analisa chose this paper to discuss:
+
+MS Gill, G Baele, MA Suchard, P Lemey. 2025. Infinite mixture models for improved modeling of across-site evolutionary variation. Molecular Biology and Evolution 42:1-21. DOI:[10.1093/molbev/msaf199](https://doi.org/10.1093/molbev/msaf199)
+
+We know this paper will be a heavy lift for some (most?) of you, so Analisa will explain the basic ideas behind the methods compared at the start of the seminar.
+
 ### September 19, 2025
 ### September 26, 2025
 ### October 3, 2025

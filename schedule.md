@@ -34,11 +34,18 @@ We know this paper will be a heavy lift for some (most?) of you, so Analisa will
 
 ### September 19, 2025
 
-Young Kim chose this paper to discuss:
+Kim chose this paper to discuss:
 
 JY Lim, CR Marshall, EA Zimmer, WL Wagner. 2019. Multiple colonizations of the Pacific by _Peperomia_ (Piperaceae): complex patterns of long‐distance dispersal and parallel radiations on the Hawaiian Islands. Journal of Biogeography 46:2651–2662. [DOI:10.1111/jbi.13717](https://doi.org/10.1111/jbi.13717)
 
 ### September 26, 2025
+
+Doug will lead discussion on this paper:
+
+L Yuanning, X-X Shen, B Evans, CW Dunn, and A Rokas. 2021.
+Rooting the animal tree of life.  MBE 38:4322–4333.
+[DOI:10.1093/molbev/msab170](https://doi.org/10.1093/molbev/msab170)
+
 ### October 3, 2025
 ### October 10, 2025
 ### October 17, 2025

@@ -47,6 +47,11 @@ Rooting the animal tree of life.  MBE 38:4322–4333.
 [DOI:10.1093/molbev/msab170](https://doi.org/10.1093/molbev/msab170)
 
 ### October 3, 2025
+
+Netanya will lead discussion on this paper, which provides a nice follow-up to our discussion last week:
+
+DT Schultz, SHD Haddock, JV Bredeson, RE Green, O Simakov, and DS Rokhsar. 2023. Ancient gene linkages support ctenophores as sister to other animals. Nature 618:110-117. [DOI:10.1038/s41586-023-05936-6](https://doi.org/10.1038/s41586-023-05936-6)
+
 ### October 10, 2025
 ### October 17, 2025
 ### October 24, 2025

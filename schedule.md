@@ -53,6 +53,11 @@ Netanya will lead discussion on this paper, which provides a nice follow-up to o
 DT Schultz, SHD Haddock, JV Bredeson, RE Green, O Simakov, and DS Rokhsar. 2023. Ancient gene linkages support ctenophores as sister to other animals. Nature 618:110-117. [DOI:10.1038/s41586-023-05936-6](https://doi.org/10.1038/s41586-023-05936-6)
 
 ### October 10, 2025
+
+Crystal will lead discussion on this paper, which examines the relationship between sympatric speciation and morphological divergence in plants.
+
+I Olivares, S Fourby, R Cámara-Leret, and AL Pigot. 2025. The likelihood of sympatric speciation and morphological divergence in plants. PNAS 122(34):e2508958122 [DOI:10.1073/pnas.2508958122](https://doi.org/10.1073/pnas.2508958122)
+
 ### October 17, 2025
 ### October 24, 2025
 ### October 31, 2025

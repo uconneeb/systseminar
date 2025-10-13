@@ -59,6 +59,14 @@ Crystal will lead discussion on this paper, which examines the relationship betw
 I Olivares, S Fourby, R Cámara-Leret, and AL Pigot. 2025. The likelihood of sympatric speciation and morphological divergence in plants. PNAS 122(34):e2508958122 [DOI:10.1073/pnas.2508958122](https://doi.org/10.1073/pnas.2508958122)
 
 ### October 17, 2025
+
+Nick Van Gilder will present some of his own work this Friday, which involves using ddRAD data to characterize diversity in the plethodontid salamander species _Batrachoseps diabolicus_.
+
+Nick suggests the following paper as background reading. He says "My 2nd dissertation chapter uses genomic approaches to characterize range-wide diversity (and eventually, the presence of cryptic species) within _B. diabolicus_, so being familiar with at least that species would be a good leg up for Friday's discussion. I don't think people need to commit to the entire thing if they're time limited, though sections following the BIOCHEMICAL DATA HEADER after the description sections are worth reading."
+
+EL Jockusch, DB Wake, and KP Yanev. 1998. New species of slender salamanders, _Batrachoseps_ (Amphibia: Plethodontidae), from the Sierra Nevada of California. Contributions in Science (Natural History Museum of Los Angeles County): 472:1-17.
+[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/52137275#page/213/mode/1up)
+
 ### October 24, 2025
 ### October 31, 2025
 ### November 7, 2025

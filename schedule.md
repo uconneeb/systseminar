@@ -68,6 +68,18 @@ EL Jockusch, DB Wake, and KP Yanev. 1998. New species of slender salamanders, _B
 [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/52137275#page/213/mode/1up)
 
 ### October 24, 2025
+
+Analisa and Paul will present some results from Analisa's dissertation research having to do with measuring the information content of data for species tree inference. 
+
+For some background, please read the indicated sections of this paper:
+
+DG Brown and M Owen. 2020. The mean and variance of phylogenetic trees. Systematic Biology 69(1):139-154. [DOI:10.1093/sysbio/syz041](https://doi.org/10.1093/sysbio/syz041)
+
+While you are welcome to read the entire paper, we will *not actually be discussing this paper* _per se_ and so these sections are the most important for background into what we will be discussing:
+* Introduction
+* Mean and Variance
+* Other Measures of Centrality and Variance
+
 ### October 31, 2025
 ### November 7, 2025
 ### November 14, 2025

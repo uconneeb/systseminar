@@ -81,10 +81,17 @@ While you are welcome to read the entire paper, we will *not actually be discuss
 * Other Measures of Centrality and Variance
 
 ### October 31, 2025
+
+Megan has chosen the following paper for discussion:
+
+T Zhao, A Zwaenepoel, JY Xue, SM Kau, Z Li, ME Schranz, and Y Van der Peer. 2021. Whole-genome microsynteny-based phylogeny of angiosperms. Nature Communications 12:3498 [DOI:10.1038/s41467-021-23665-0](https://doi.org/10.1038/s41467-021-23665-0)
+
 ### November 7, 2025
+
 ### November 14, 2025
+
 ### November 21, 2025
-### November 28, 2025
+
 ### December 5, 2025
 
 {% comment %}

@@ -88,6 +88,8 @@ T Zhao, A Zwaenepoel, JY Xue, SM Kau, Z Li, ME Schranz, and Y Van der Peer. 2021
 
 ### November 7, 2025
 
+GS de Miranda, SS Kulkarni, J Tagliatela, CM Baker, APL Giupponi, FM Labarque, E Gavish-Regev, M Rix, LS Carvalho, LM Fusari, MS Harvey, HM Wood, and PP Sharma. 2024. The rediscovery of a relict unlocks the first global phylogeny of whip spiders (Amblypygi). Systematic Biology, 73(3):495–505. [DOI:10.1093/sysbio/syae021](https://doi.org/10.1093/sysbio/syae021)
+
 ### November 14, 2025
 
 ### November 21, 2025

@@ -92,6 +92,11 @@ GS de Miranda, SS Kulkarni, J Tagliatela, CM Baker, APL Giupponi, FM Labarque, E
 
 ### November 14, 2025
 
+Kim has chosen the following paper for discussion:
+
+R Cousins-Westerberg, N Dakin, L Schat, G Kadereit, and AM Humphreys. 2023. Evolution of cold tolerance in the highly stress-tolerant
+samphires and relatives (Salicornieae: Amaranthaceae). Biological Journal of the Linnean Society 203:20-36. [DOI:10.1093/botlinnean/boad009](https://doi.org/10.1093/botlinnean/boad009)
+
 ### November 21, 2025
 
 ### December 5, 2025

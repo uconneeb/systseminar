@@ -99,6 +99,11 @@ samphires and relatives (Salicornieae: Amaranthaceae). Biological Journal of the
 
 ### November 21, 2025
 
+Crystal has chosen the following paper for discussion:
+
+TJ Widhelm, A Rao, F Grewe, HT Lumbsch. 2023. High-throughput sequencing confirms the boundary between traditionally considered species pairs in a group of lichenized fungi (Peltigeraceae, Pseudocyphellaria). Botanical Journal of the Linnean Society 201:471–482.
+[DOI:10.1093/botlinnean/boac048](https://doi.org/10.1093/botlinnean/boac048)
+
 ### December 5, 2025
 
 {% comment %}

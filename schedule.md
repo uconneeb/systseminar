@@ -106,6 +106,11 @@ TJ Widhelm, A Rao, F Grewe, HT Lumbsch. 2023. High-throughput sequencing confirm
 
 ### December 5, 2025
 
+Netanya has chosen this paper for our last Systematics Seminar of the semester:
+
+AR Tims, PJ Unmack, MP Hammer, C Brown, M Adams, and MD McGee. 2024. Museum genomics reveals the hybrid origin of an extinct crater lake endemic. Systematic Biology 73:506–520.
+[DOI:10.1093/sysbio/syae017](https://doi.org/10.1093/sysbio/syae017)
+
 {% comment %}
 Some possible 2025 papers to discuss this semester (Note: this list is for inspiration only; please feel free to find papers that are not listed here!)
 

@@ -4,112 +4,47 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We are meeting this semester (Fall 2025) on Fridays from 11:15-12:05 in TLS 171b (i.e. the Bamford Conference Room).
+We are meeting this semester (Spring 2026) on Fridays from 11:15-12:05 in TLS 171b (i.e. the Bamford Conference Room).
 
 If you are a UConn graduate student interested in Systematics and would like to join us, please
 write to [Paul Lewis](mailto:paul.lewis@uconn.edu) for a permission number. 
 
 Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails containing connection information (or write to someone listed in [Contact Info](/systseminar/contact-info/)).
 
-### August 29, 2025
+### January 23, 2026
 
-Organizational meeting
+Let's begin with an easy read that will give us some perspective on the field of Systematics and alwos will allow time to discuss possible topics or themes for the semester:
 
-### September 5, 2025
+FJ Rohlf. 2025. Too many numbers? Systematic Biology [DOI:10.1093/sysbio/syaf076](https://doi.org/10.1093/sysbio/syaf076)
 
-Nick chose this paper to discuss:
+### January 30, 2026
 
-BP Waldron, EF Watts, DJ Morgan, MM Hantak, AR Lemmon, EC Moriarty Lemmon, and SR Kuchta. 2025. 
-The limits of the metapopulation: lineage fragmentation in a widespread terrestrial salamander (_Plethodon cinereus_).
-Systematic Biology 74(1):1–15
-DOI:[10.1093/sysbio/syae053](https://doi.org/10.1093/sysbio/syae053)
+### February 6, 2026
 
-### September 12, 2025
+### February 13, 2026
 
-Analisa chose this paper to discuss:
+### February 20, 2026
 
-MS Gill, G Baele, MA Suchard, P Lemey. 2025. Infinite mixture models for improved modeling of across-site evolutionary variation. Molecular Biology and Evolution 42:1-21. DOI:[10.1093/molbev/msaf199](https://doi.org/10.1093/molbev/msaf199)
+### February 27, 2026
 
-We know this paper will be a heavy lift for some (most?) of you, so Analisa will explain the basic ideas behind the methods compared at the start of the seminar.
+### March 6, 2026
 
-### September 19, 2025
+### March 13, 2026
 
-Kim chose this paper to discuss:
+### March 20, 2026
 
-JY Lim, CR Marshall, EA Zimmer, WL Wagner. 2019. Multiple colonizations of the Pacific by _Peperomia_ (Piperaceae): complex patterns of long‐distance dispersal and parallel radiations on the Hawaiian Islands. Journal of Biogeography 46:2651–2662. [DOI:10.1111/jbi.13717](https://doi.org/10.1111/jbi.13717)
+### March 27, 2026
 
-### September 26, 2025
+### April 3, 2026
 
-Doug will lead discussion on this paper:
+### April 10, 2026
 
-L Yuanning, X-X Shen, B Evans, CW Dunn, and A Rokas. 2021.
-Rooting the animal tree of life.  MBE 38:4322–4333.
-[DOI:10.1093/molbev/msab170](https://doi.org/10.1093/molbev/msab170)
+### April 17, 2026
 
-### October 3, 2025
+### April 24, 2026
 
-Netanya will lead discussion on this paper, which provides a nice follow-up to our discussion last week:
+### May 1, 2026
 
-DT Schultz, SHD Haddock, JV Bredeson, RE Green, O Simakov, and DS Rokhsar. 2023. Ancient gene linkages support ctenophores as sister to other animals. Nature 618:110-117. [DOI:10.1038/s41586-023-05936-6](https://doi.org/10.1038/s41586-023-05936-6)
-
-### October 10, 2025
-
-Crystal will lead discussion on this paper, which examines the relationship between sympatric speciation and morphological divergence in plants.
-
-I Olivares, S Fourby, R Cámara-Leret, and AL Pigot. 2025. The likelihood of sympatric speciation and morphological divergence in plants. PNAS 122(34):e2508958122 [DOI:10.1073/pnas.2508958122](https://doi.org/10.1073/pnas.2508958122)
-
-### October 17, 2025
-
-Nick Van Gilder will present some of his own work this Friday, which involves using ddRAD data to characterize diversity in the plethodontid salamander species _Batrachoseps diabolicus_.
-
-Nick suggests the following paper as background reading. He says "My 2nd dissertation chapter uses genomic approaches to characterize range-wide diversity (and eventually, the presence of cryptic species) within _B. diabolicus_, so being familiar with at least that species would be a good leg up for Friday's discussion. I don't think people need to commit to the entire thing if they're time limited, though sections following the BIOCHEMICAL DATA HEADER after the description sections are worth reading."
-
-EL Jockusch, DB Wake, and KP Yanev. 1998. New species of slender salamanders, _Batrachoseps_ (Amphibia: Plethodontidae), from the Sierra Nevada of California. Contributions in Science (Natural History Museum of Los Angeles County): 472:1-17.
-[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/52137275#page/213/mode/1up)
-
-### October 24, 2025
-
-Analisa and Paul will present some results from Analisa's dissertation research having to do with measuring the information content of data for species tree inference. 
-
-For some background, please read the indicated sections of this paper:
-
-DG Brown and M Owen. 2020. The mean and variance of phylogenetic trees. Systematic Biology 69(1):139-154. [DOI:10.1093/sysbio/syz041](https://doi.org/10.1093/sysbio/syz041)
-
-While you are welcome to read the entire paper, we will *not actually be discussing this paper* _per se_ and so these sections are the most important for background into what we will be discussing:
-* Introduction
-* Mean and Variance
-* Other Measures of Centrality and Variance
-
-### October 31, 2025
-
-Meghan has chosen the following paper for discussion:
-
-T Zhao, A Zwaenepoel, JY Xue, SM Kau, Z Li, ME Schranz, and Y Van der Peer. 2021. Whole-genome microsynteny-based phylogeny of angiosperms. Nature Communications 12:3498 [DOI:10.1038/s41467-021-23665-0](https://doi.org/10.1038/s41467-021-23665-0)
-
-### November 7, 2025
-
-GS de Miranda, SS Kulkarni, J Tagliatela, CM Baker, APL Giupponi, FM Labarque, E Gavish-Regev, M Rix, LS Carvalho, LM Fusari, MS Harvey, HM Wood, and PP Sharma. 2024. The rediscovery of a relict unlocks the first global phylogeny of whip spiders (Amblypygi). Systematic Biology, 73(3):495–505. [DOI:10.1093/sysbio/syae021](https://doi.org/10.1093/sysbio/syae021)
-
-### November 14, 2025
-
-Kim has chosen the following paper for discussion:
-
-R Cousins-Westerberg, N Dakin, L Schat, G Kadereit, and AM Humphreys. 2023. Evolution of cold tolerance in the highly stress-tolerant
-samphires and relatives (Salicornieae: Amaranthaceae). Biological Journal of the Linnean Society 203:20-36. [DOI:10.1093/botlinnean/boad009](https://doi.org/10.1093/botlinnean/boad009)
-
-### November 21, 2025
-
-Crystal has chosen the following paper for discussion:
-
-TJ Widhelm, A Rao, F Grewe, HT Lumbsch. 2023. High-throughput sequencing confirms the boundary between traditionally considered species pairs in a group of lichenized fungi (Peltigeraceae, Pseudocyphellaria). Botanical Journal of the Linnean Society 201:471–482.
-[DOI:10.1093/botlinnean/boac048](https://doi.org/10.1093/botlinnean/boac048)
-
-### December 5, 2025
-
-Netanya has chosen this paper for our last Systematics Seminar of the semester:
-
-AR Tims, PJ Unmack, MP Hammer, C Brown, M Adams, and MD McGee. 2024. Museum genomics reveals the hybrid origin of an extinct crater lake endemic. Systematic Biology 73:506–520.
-[DOI:10.1093/sysbio/syae017](https://doi.org/10.1093/sysbio/syae017)
 
 {% comment %}
 Some possible 2025 papers to discuss this semester (Note: this list is for inspiration only; please feel free to find papers that are not listed here!)

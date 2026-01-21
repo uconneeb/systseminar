@@ -13,7 +13,7 @@ Subscribe to [systematics listserv](/systseminar/listserv/) to receive emails co
 
 ### January 23, 2026
 
-Let's begin with an easy read that will give us some perspective on the field of Systematics and alwos will allow time to discuss possible topics or themes for the semester:
+Let's begin with an easy read that will give us some perspective on the field of Systematics and also will allow time to discuss possible topics or themes for the semester:
 
 FJ Rohlf. 2025. Too many numbers? Systematic Biology [DOI:10.1093/sysbio/syaf076](https://doi.org/10.1093/sysbio/syaf076)
 

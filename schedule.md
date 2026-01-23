@@ -19,6 +19,10 @@ FJ Rohlf. 2025. Too many numbers? Systematic Biology [DOI:10.1093/sysbio/syaf076
 
 ### January 30, 2026
 
+Analisa chose this paper for discussion this week:
+
+J Villamil, M Morando, LJ vila, FM Lanna, EM Fonseca, JW Sites Jr, and A Camargo. 2025. Revisiting the multispecies coalescent model fit with an example from a complete molecular phylogeny of the _Liolaemus wiegmannii_ species group (Squamata: Liolaemidae). Systematic Biology 75:72-87. [DOI:10.1093/sysbio/syaf048](https://doi.org/10.1093/sysbio/syaf048)
+
 ### February 6, 2026
 
 ### February 13, 2026

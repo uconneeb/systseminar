@@ -25,6 +25,10 @@ J Villamil, M Morando, LJ Avila, FM Lanna, EM Fonseca, JW Sites Jr, and A Camarg
 
 ### February 6, 2026
 
+Crystal chose this paper for discussion this week;
+
+D Díaz-Escandón, G Tagirdzhanova, D Vanderpool, CCG Allen, A Aptroot, O Češka, DL Hawksworth, A Huereca, K Knudsen, J Kocourková, R Lücking, P Resl, T Spribille. 2022. Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes. Current Biology 32:5209--5218. [DOI:10.1016/j.cub.2022.11.014](https://doi.org/10.1016/j.cub.2022.11.014)
+
 ### February 13, 2026
 
 ### February 20, 2026

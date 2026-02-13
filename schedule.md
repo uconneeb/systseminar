@@ -31,6 +31,11 @@ D Díaz-Escandón, G Tagirdzhanova, D Vanderpool, CCG Allen, A Aptroot, O Češk
 
 ### February 13, 2026
 
+Doug chose this scary (the optimum mimic is not the most accurate mimic!) paper for our Friday the 13th discussion:
+
+MBJ Kelly, S Derkarabetian, DJ McLean, R Shofner, CJ Grismado, CR Haddad, G Cassis, G Giribet, ME Herberstein, JO Wolff. 2025. Batesian mimicry converges toward inaccuracy in myrmecomorphic spiders. Systematic Biology 74(6):967-984. 
+[DOI:10.1093/sysbio/syaf037](https://doi.org/10.1093/sysbio/syaf037)
+
 ### February 20, 2026
 
 ### February 27, 2026

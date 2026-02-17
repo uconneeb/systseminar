@@ -31,7 +31,16 @@ D Díaz-Escandón, G Tagirdzhanova, D Vanderpool, CCG Allen, A Aptroot, O Češk
 
 ### February 13, 2026
 
+Doug chose this scary (the optimum mimic is not the most accurate mimic!) paper for our Friday the 13th discussion:
+
+MBJ Kelly, S Derkarabetian, DJ McLean, R Shofner, CJ Grismado, CR Haddad, G Cassis, G Giribet, ME Herberstein, JO Wolff. 2025. Batesian mimicry converges toward inaccuracy in myrmecomorphic spiders. Systematic Biology 74(6):967-984. [DOI](https://doi.org/10.1093/sysbio/syaf037)
+
 ### February 20, 2026
+
+Meghan chose this paper on the East Asia-Eastern North America disjunction in the geographic distribution of hemlocks for Friday:
+
+Y-Y Feng, T-T Shen, C-C Shao, H Du, J-H Ran, X-Q Wang. 2021. Phylotranscriptomics reveals the complex evolutionary and biogeographic history of the genus Tsuga with an East Asian-North American disjunct distribution.
+Molecular Phylogenetics and Evolution 157:107066. [DOI:10.1016/j.ympev.2020.107066](https://doi.org/10.1016/j.ympev.2020.107066)
 
 ### February 27, 2026
 
@@ -53,6 +62,16 @@ D Díaz-Escandón, G Tagirdzhanova, D Vanderpool, CCG Allen, A Aptroot, O Češk
 
 ### May 1, 2026
 
+{% comment %}
+Analisa Milkey
+Crystal Zhu
+Doug Stephan
+Meghan Myles
+
+Javi Ortega
+Zach Muscavitch
+Netanya Williams
+{% endcomment %}
 
 {% comment %}
 Some possible 2025 papers to discuss this semester (Note: this list is for inspiration only; please feel free to find papers that are not listed here!)

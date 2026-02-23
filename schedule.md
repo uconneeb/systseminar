@@ -45,12 +45,22 @@ Molecular Phylogenetics and Evolution 157:107066. [DOI:10.1016/j.ympev.2020.1070
 
 ### February 27, 2026
 
+Netanya chose this paper to discuss:
+
+AA Grossi, C Tian, M Ren, F Zou, and DR Gustafsson. 2024. Co-phylogeny of a hyper-symbiotic system: endosymbiotic bacteria (Gammaproteobacteria), chewing lice (Insecta: Phthiraptera) and birds (Passeriformes). Molecular Phylogenetics and Evolution 190:107957. [DOI:10.1016/j.ympev.2023.107957](https://doi.org/10.1016/j.ympev.2023.107957)
+ 
 ### March 6, 2026
+
+Zach will choose a paper for this week
 
 ### March 13, 2026
 
+Javi will choose a paper for this week
+
 ### March 20, 2026
 
+Spring Break week, no class
+    
 ### March 27, 2026
 
 ### April 3, 2026
@@ -64,11 +74,11 @@ Molecular Phylogenetics and Evolution 157:107066. [DOI:10.1016/j.ympev.2020.1070
 ### May 1, 2026
 
 {% comment %}
+Students registered for Spring 2026:
 Analisa Milkey
 Crystal Zhu
 Doug Stephan
 Meghan Myles
-
 Javi Ortega
 Zach Muscavitch
 Netanya Williams

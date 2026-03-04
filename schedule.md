@@ -53,7 +53,7 @@ AA Grossi, C Tian, M Ren, F Zou, and DR Gustafsson. 2024. Co-phylogeny of a hype
 
 Zach chose this paper to discuss:
 
-KO Chan, DN Neokleous, S Anuar, RM Brown, CR Hutter, IDas, and ST Hertwig. 2026 A genomic perspective on cryptic species reveals complex evolutionary dynamics in the gray zone of the speciation continuum. Systematic Biology syag001. [DOI:10.1093/sysbio/syag001AA] (https://doi.org/10.1093/sysbio/syag001)
+KO Chan, DN Neokleous, S Anuar, RM Brown, CR Hutter, IDas, and ST Hertwig. 2026 A genomic perspective on cryptic species reveals complex evolutionary dynamics in the gray zone of the speciation continuum. Systematic Biology syag001. [DOI:10.1093/sysbio/syag001AA](https://doi.org/10.1093/sysbio/syag001)
 
 ### March 13, 2026
 

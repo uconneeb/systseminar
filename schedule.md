@@ -57,7 +57,9 @@ KO Chan, DN Neokleous, S Anuar, RM Brown, CR Hutter, IDas, and ST Hertwig. 2026 
 
 ### March 13, 2026
 
-Javi will choose a paper for this week
+Javi chose this paper to discuss:
+
+CF Vaga, AM Quattrini, IG de Lossio e Seiblitz, D Huang, ZBR Quek, J Stolarski, SD Cairns, and MV Kitahara. 2025. A global coral phylogeny reveals resilience and vulnerability through deep time. Nature 648: 377-382. [DOI:10.1038/s41586-025-09615-6](https://doi.org/10.1038/s41586-025-09615-6)
 
 ### March 20, 2026
 

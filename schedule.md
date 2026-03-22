@@ -67,6 +67,10 @@ Spring Break week, no class
     
 ### March 27, 2026
 
+Paul will discuss this paper on testing whether a locus is saturated:
+
+DA Duchêne, N Mather, C van der Wal, and SYW Ho. 2022. Excluding loci with substitution saturation improves inferences from phylogenomic data. Systematic Biology 71:676–689. [DOI:10.1093/sysbio/syab075](https://doi.org/10.1093/sysbio/syab075)
+
 ### April 3, 2026
 
 ### April 10, 2026

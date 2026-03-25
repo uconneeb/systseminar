@@ -73,13 +73,23 @@ DA Duchêne, N Mather, C van der Wal, and SYW Ho. 2022. Excluding loci with subs
 
 ### April 3, 2026
 
+Meghan will choose a paper for this week.
+
 ### April 10, 2026
+
+Doug will choose a paper for this week.
 
 ### April 17, 2026
 
+Javi will choose a paper for this week.
+
 ### April 24, 2026
 
+Crystal will choose a paper for this week.
+
 ### May 1, 2026
+
+Netanya will choose a paper for this week.
 
 {% comment %}
 Students registered for Spring 2026:

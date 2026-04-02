@@ -75,7 +75,7 @@ DA Duchêne, N Mather, C van der Wal, and SYW Ho. 2022. Excluding loci with subs
 
 Gnetifer, Gnepine, and Gnecup, oh my! Meghan chose the following paper for this week, which adds RNA editing to the list of terrifying things that can fake out your phylogenetic analysis:
 
-YE Lin, CS Wu, YW Wu, and SM Chaw. 2025. Phylogenomic inference suggests differential deep time phylogenetic signals from nuclear and organellar genomes in gymnosperms. Plants 14:1335. [DOI:10.3390/plants14091335_}(https://doi.org/10.3390/plants14091335)
+YE Lin, CS Wu, YW Wu, and SM Chaw. 2025. Phylogenomic inference suggests differential deep time phylogenetic signals from nuclear and organellar genomes in gymnosperms. Plants 14:1335. [DOI:10.3390/plants14091335](https://doi.org/10.3390/plants14091335)
 
 ### April 10, 2026
 

@@ -79,7 +79,9 @@ YE Lin, CS Wu, YW Wu, and SM Chaw. 2025. Phylogenomic inference suggests differe
 
 ### April 10, 2026
 
-Doug will choose a paper for this week.
+Doug chose a paper on fungal carnivory this week: let the nematode rodeo begin!
+
+Y Fan, D Minghao, W Zhang, W Deng, E Yang, S Wang, L Yan, L Zhang, S Kang, JL Steenwyk, Z An, X Liu, and M Xiang. 2025. The genomes of nematode-trapping fungi provide insights into the origin and diversification of fungal carnivorism. Molecular Phylogenetics and Evolution 212:108423. [DOI:10.1016/j.ympev.2025.108423](https://doi.org/10.1016/j.ympev.2025.108423)
 
 ### April 17, 2026
 

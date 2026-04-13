@@ -85,7 +85,9 @@ Y Fan, D Minghao, W Zhang, W Deng, E Yang, S Wang, L Yan, L Zhang, S Kang, JL St
 
 ### April 17, 2026
 
-Javi will choose a paper for this week.
+Javi converged on the following intriguing paper for this week:
+
+E Jongepier, A Séguret, A Labutin, B Feldmeyer, C Gstöttl, S Foitzik, J Heinze, and E Bornberg-Bauer. 2021. Convergent loss of chemoreceptors across independent origins of slave-making in ants. Molecular Biology and Evolution 39:msab305 [DOI:10.1093/molbev/msab305](https://doi.org/10.1093/molbev/msab305)
 
 ### April 24, 2026
 

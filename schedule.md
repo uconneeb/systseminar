@@ -91,7 +91,9 @@ E Jongepier, A Séguret, A Labutin, B Feldmeyer, C Gstöttl, S Foitzik, J Heinze
 
 ### April 24, 2026
 
-Crystal will choose a paper for this week.
+Crystal has chosen to do a deep dive into marine algae this week:
+
+J Mahwash, T Huber, T Antoine, H-J Ruscheweyh, L Paoli, E Pelletier, TO Delmont, and F Burki. 2026. Identification of a deep-branching lineage of algae using environmental plastid genomes. Nature Communications 17:662 [DOI:10.1038/s41467-025-67401-4](https://doi.org/10.1038/s41467-025-67401-4)
 
 ### May 1, 2026
 

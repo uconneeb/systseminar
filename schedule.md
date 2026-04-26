@@ -97,7 +97,9 @@ J Mahwash, T Huber, T Antoine, H-J Ruscheweyh, L Paoli, E Pelletier, TO Delmont,
 
 ### May 1, 2026
 
-Netanya will choose a paper for this week.
+Don't be a crab! Converge on the terrestrial habitat of the Bamford room on the last Friday of the semester to discuss the paper Netanya choose for this week:
+
+Wolfe, J. M., Ballou, L., Luque, J., Watson-Zink, V. M., Ahyong, S. T., Barido-Sottani, J., Chan, T. Y., Chu, K. H., Crandall, K. A., Daniels, S. R., Felder, D. L., Mancke, H., Martin, J. W., Ng, P. K. L., Ortega-Hernández, J., Palacios Theil, E., Pentcheff, N. D., Robles, R., Thoma, B. P., Tsang, L. M., … Bracken-Grissom, H. D. 2024. Convergent adaptation of true crabs (Decapoda: Brachyura) to a gradient of terrestrial environments. Systematic Biology 73:247–262. [DOI:10.1093/sysbio/syad066](https://doi.org/10.1093/sysbio/syad066)
 
 {% comment %}
 Students registered for Spring 2026:

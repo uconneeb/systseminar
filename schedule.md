@@ -24,6 +24,10 @@ DOI:10.1016/j.cub.2025.05.066.
 
 ### Friday, September 18, 2026
 
+First-in-flight (odonates, not the Wright brothers). Doug will lead the discussion on this paper on Barn Dance Friday:
+
+LG Newton et al. 2026. [Soaring systematics: an evaluation of biogeography and flight behavior in dragonflies and damselflies (Insecta: Odonata) using phylogenomics.](](https://doi.org/10.1093/sysbio/syag005)) Systematic Biology 75(5):984-1002. DOI:10.1093/sysbio/syag005
+
 ### Friday, September 25, 2026
 
 ### Friday, October 2, 2026

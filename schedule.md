@@ -30,6 +30,10 @@ LG Newton et al. 2026. [Soaring systematics: an evaluation of biogeography and f
 
 ### Friday, September 25, 2026
 
+Gregory has "identified" this paper as the one to discuss on Friday:
+
+S Tarasov and J Uyeda. 2026. [Unidentifiability and false-positive inference in state-dependent diversification models.](https://doi.org/10.1038/s41467-026-75829-5) Nature Communications 17:9076. DOI:10.1038/s41467-026-75829-5.
+
 ### Friday, October 2, 2026
 
 ### Friday, October 9, 2026

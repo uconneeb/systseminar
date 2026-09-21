@@ -36,19 +36,35 @@ S Tarasov and J Uyeda. 2026. [Unidentifiability and false-positive inference in 
 
 ### Friday, October 2, 2026
 
+Henry
+
 ### Friday, October 9, 2026
+
+Meghan
 
 ### Friday, October 16, 2026
 
+Javi
+
 ### Friday, October 23, 2026
+
+Netanya
 
 ### Friday, October 30, 2026
 
+Chris 
+
 ### Friday, November 6, 2026
+
+(looking for a volunteer)
 
 ### Friday, November 13, 2026
 
+Crystal
+
 ### Friday, November 20, 2026
+
+(looking for a volunteer)
 
 ### Friday, November 27, 2026
 
@@ -56,6 +72,9 @@ THANKSGIVING BREAK
 
 ### Friday, December 4, 2026
 
+(looking for a volunteer)
+
 ### Friday, December 11, 2026
 
+(looking for a volunteer)
 

@@ -36,7 +36,10 @@ S Tarasov and J Uyeda. 2026. [Unidentifiability and false-positive inference in 
 
 ### Friday, October 2, 2026
 
-Henry
+You will certainly "lichen" the paper Henry Aymes chose for this week!
+
+R Pino-Bodas, T Ahti, S Stenroos, and I. Sanmartín. 2026. [Diversification and spatio-temporal evolution of Cladoniaceae
+(Lecanorales, Ascomycota), a widespread family of lichen-forming fungi.](https://doi.org/10.1016/j.funbio.2025.101710) Fungal Biology 130:101710. DOI:10.1016/j.funbio.2025.101710
 
 ### Friday, October 9, 2026
 

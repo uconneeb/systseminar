@@ -43,11 +43,15 @@ R Pino-Bodas, T Ahti, S Stenroos, and I. Sanmartín. 2026. [Diversification and 
 
 ### Friday, October 9, 2026
 
-Meghan
+Meghan chose this paper "fir" us to read this week, replete with mitochondrial, plastid, and nuclear discordance:
+
+S Park, M Kwak, and S Park. 2024. [Complete organelle genomes of Korean fir, Abies koreana and phylogenomics of the gymnosperm genus Abies using nuclear and cytoplasmic DNA sequence data.](https://doi.org/10.1038/s41598-024-58253-x) Scientific Reports 14:7636. DOI:10.1038/s41598-024-58253-x
 
 ### Friday, October 16, 2026
 
-Javi
+Javi chose this paper to read for this week:
+
+LM Baraf, JY Hung, and PF Cowman. 2025. [Phylogenomics of marine angelfishes: diagnosing sources of systematic discordance for an iconic reef fish family (F: Pomacanthidae).](https://doi.org/10.1093/sysbio/syaf016) Syst. Biol. 74(5):799–817. DOI:10.1093/sysbio/syaf016
 
 ### Friday, October 23, 2026
 
